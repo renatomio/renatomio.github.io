@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Renato's homepage"
 title_separator          : "-"
 name                     : &name "Renato Mio"
-description              : &description "personal description"
+description              : &description "Personal website of Renato Mio"
 url                      : https://renatomio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "renatomio/renatomio.github.io"
@@ -21,7 +21,7 @@ repository               : "renatomio/renatomio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "LabPic2.jpg"
+  avatar           : "profile.jpg"
   name             : "Renato Mio" # Your sidebar name
   pronouns         : # example: "she/her"  
   bio              : "Doctoral researcher on neurotechnology"
@@ -32,19 +32,19 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=X0E6A4YAAAAJ&hl=es&authuser=1"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-8419-2633"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Renato-Mio"
   scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "renatomio"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
