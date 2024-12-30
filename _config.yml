@@ -25,10 +25,10 @@ author:
   name             : "Renato Mio" # Your sidebar name
   pronouns         : # example: "she/her"  
   bio              : "Doctoral researcher on neurotechnology"
-  location         : ""
+  location         : 
   employer         : "University of Bayreuth"
   uri              : # URL
-  email            : "" 
+  email            : # email address 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "renatomio"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "renato__mio"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
