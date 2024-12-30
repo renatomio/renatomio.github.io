@@ -21,14 +21,14 @@ repository               : "renatomio/renatomio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "LabPic2.jpg"
   name             : "Renato Mio" # Your sidebar name
   pronouns         : # example: "she/her"  
   bio              : "Doctoral researcher on neurotechnology"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : ""
+  employer         : "University of Bayreuth"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
