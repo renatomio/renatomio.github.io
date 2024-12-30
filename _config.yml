@@ -22,9 +22,9 @@ repository               : "renatomio/renatomio.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Renato Mio" # Your sidebar name
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Doctoral researcher on neurotechnology"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
