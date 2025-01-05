@@ -1,7 +1,4 @@
 ---
-layout: home
-title: About Me
-permalink: /
 ---
 
 # Renato Mio  
