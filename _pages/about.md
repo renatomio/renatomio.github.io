@@ -6,6 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my personal website! I am **Renato Mio**, a research assistant at the **Chair of Digital Health** at the **University of Bayreuth**, where I specialize in **neurotechnology** and **wearable robotics**. My work spans multiple domains, including:
+
+- **Research**: Exploring innovative solutions in neurophysiology, neurobehavioral studies, and advanced wearable systems.
+- **Teaching**: Educating both undergraduate and master’s students, fostering their curiosity and guiding them in life sciences and neurotechnology.
+- **Administrative Duties**: Managing the procurement of high-end medical research equipment and contributing to institutional projects.
+
+### My Interests
+I am particularly passionate about:
+- Real-time signal processing, with a focus on force calibration and EMG data collection.
+- High-density EMG and high-end EEG and fNIRS technologies for neurophysiological research.
+- Promoting interdisciplinary collaborations between artificial intelligence and life sciences.
+
+### Get in Touch
+Feel free to reach out to me if you’re interested in collaborating on projects or if you’re a student eager to learn about neurotechnology and wearable robotics. Together, we can advance the frontiers of digital health!
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
