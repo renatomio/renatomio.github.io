@@ -8,7 +8,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 --Page under construction--
+
 I am **Renato Mio**, a doctoral researcher and research assistant at the **Chair of Digital Health with a Focus on Data Science**, University of Bayreuth, Germany. With a background in **Biomedical Engineering** (MSc) and **Mechatronics Engineering** (BSc), my research focuses on **neural interfaces for human augmentation**, particularly on decoding muscle-related neural signals to generate commands for external devices.
 
 Currently, I work on setting up the **Kulmbach Living Lab**, a fully sensorized apartment for human behavior studies, and collaborate with the **Brain and Behaviour Laboratory** at Imperial College London as part of the **Borderless Lab initiative**. My work spans:
