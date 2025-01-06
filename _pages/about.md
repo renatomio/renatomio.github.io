@@ -8,17 +8,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my personal website! I am **Renato Mio**, a research assistant at the **Chair of Digital Health** at the **University of Bayreuth**, where I specialize in **neurotechnology** and **wearable robotics**. My work spans multiple domains, including:
+--Page under construction--
+I am **Renato Mio**, a doctoral researcher and research assistant at the **Chair of Digital Health with a Focus on Data Science**, University of Bayreuth, Germany. With a background in **Biomedical Engineering** (MSc) and **Mechatronics Engineering** (BSc), my research focuses on **neural interfaces for human augmentation**, particularly on decoding muscle-related neural signals to generate commands for external devices.
 
-- **Research**: Exploring innovative solutions in neurophysiology, neurobehavioral studies, and advanced wearable systems.
-- **Teaching**: Educating both undergraduate and master’s students, fostering their curiosity and guiding them in life sciences and neurotechnology.
-- **Administrative Duties**: Managing the procurement of high-end medical research equipment and contributing to institutional projects.
+Currently, I work on setting up the **Kulmbach Living Lab**, a fully sensorized apartment for human behavior studies, and collaborate with the **Brain and Behaviour Laboratory** at Imperial College London as part of the **Borderless Lab initiative**. My work spans:
 
-### My Interests
-I am particularly passionate about:
-- Real-time signal processing, with a focus on force calibration and EMG data collection.
-- High-density EMG and high-end EEG and fNIRS technologies for neurophysiological research.
-- Promoting interdisciplinary collaborations between artificial intelligence and life sciences.
+- Developing advanced signal processing and machine learning techniques for non-invasive neural interfacing.
+- Teaching courses on **Python for Digital Health**, **Reinforcement Learning**, and leading seminars in **Brain-Computer Interfaces**.
+- Mentoring students and assisting with high-impact research projects.
+
+I co-founded **LAT Bionics**, a Peruvian social start-up dedicated to designing low-cost, customized bionic prostheses, and have led or contributed to several funded projects on rehabilitation robotics, exoskeletons, and prosthetics. My research has been featured in **Scientific Reports**, **Imperial College News**, and major international media outlets like **Reuters** and **New Scientist**.
+
+Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](../contact/) for collaborations or inquiries about my work.
 
 ## Latest News  
 Here are some recent updates from my work:
