@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Personalized Fingers Design with Silicone Rubber Texture Fingertip for Increased Grip in Transmetacarpal Powered Hand Prostheses"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: posters
+permalink: /publication/2016-cybathlon-fingers-design
+excerpt: "This poster presents a study on personalized finger designs using silicone rubber textures to enhance grip in powered hand prostheses."
+date: 2016-10-06
+venue: "Cybathlon Symposium 2016"
+slidesurl: " "
+paperurl: " "
+citation: "R. Mio and M. Bustamante. “Personalized fingers design with silicone rubber texture fingertip for increased grip in transmetacarpal powered hand prostheses”, Cybathlon Symposium’16 (Booklet pp42)."
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research focuses on the design and development of personalized prosthetic fingers for transmetacarpal amputees. Silicone rubber fingertips were utilized to improve grip and functionality, providing better adaptability and precision in real-world applications. The study includes material selection, mechanical testing, and user evaluations, showcasing the potential of customized solutions in prosthetics.
