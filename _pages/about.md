@@ -21,6 +21,19 @@ Currently, I work on setting up the **Kulmbach Living Lab**, a fully sensorized 
 
 I co-founded **LAT Bionics**, a Peruvian social start-up dedicated to designing low-cost, customized bionic prostheses, and have led or contributed to several funded projects on rehabilitation robotics, exoskeletons, and prosthetics. My research has been featured in **Scientific Reports**, **Imperial College News**, and major international media outlets like **Reuters** and **New Scientist**.
 
+I am a **doctoral researcher** at the **Chair of Digital Health with a Focus on Data Science** (University of Bayreuth, Germany) and a member of the **Brain and Behaviour Laboratory** at **Imperial College London, UK**. My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyze electromyography (EMG) recordings. By decoding muscle-related neural signals, I aim to enhance human-machine interactions and develop innovative assistive technologies.  
+
+Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and currently lead the **Bayreuth AI Association**, a community dedicated to exploring the practical applications of **AI and machine learning** across disciplines.  
+
+I am also a **co-founder of LAT Bionics**, a Peru-based company committed to designing and fitting **low-cost, customized hand prostheses** for individuals with limb differences.  
+
+My past projects have explored various aspects of **human augmentation and rehabilitation technology**, including:  
+- Studying how people learn to control an **additional robotic finger** while playing the piano.  
+- Developing both **myoelectric** and **body-powered hand prostheses** to improve accessibility in prosthetic solutions.  
+- Designing **supernumerary robotic fingers** to enhance grasping capabilities.  
+
+Through my work, I aim to bridge the gap between **neuroscience, engineering, and assistive technology**, pushing the boundaries of what is possible in human augmentation.  
+
 Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](../contact/) for collaborations or inquiries about my work.
 
 ## Latest News  
