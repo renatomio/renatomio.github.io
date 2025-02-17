@@ -11,28 +11,20 @@ redirect_from:
 
 --Page under construction--
 
-I am **Renato Mio**, a doctoral researcher and research assistant at the **Chair of Digital Health with a Focus on Data Science**, University of Bayreuth, Germany. With a background in **Biomedical Engineering** (MSc) and **Mechatronics Engineering** (BSc), my research focuses on **neural interfaces for human augmentation**, particularly on decoding muscle-related neural signals to generate commands for external devices.
-
-Currently, I work on setting up the **Kulmbach Living Lab**, a fully sensorized apartment for human behavior studies, and collaborate with the **Brain and Behaviour Laboratory** at Imperial College London as part of the **Borderless Lab initiative**. My work spans:
-
-- Developing advanced signal processing and machine learning techniques for non-invasive neural interfacing.
-- Teaching courses on **Python for Digital Health**, **Reinforcement Learning**, and leading seminars in **Brain-Computer Interfaces**.
-- Mentoring students and assisting with high-impact research projects.
-
-I co-founded **LAT Bionics**, a Peruvian social start-up dedicated to designing low-cost, customized bionic prostheses, and have led or contributed to several funded projects on rehabilitation robotics, exoskeletons, and prosthetics. My research has been featured in **Scientific Reports**, **Imperial College News**, and major international media outlets like **Reuters** and **New Scientist**.
-
-I am a **doctoral researcher** at the **Chair of Digital Health with a Focus on Data Science** (University of Bayreuth, Germany) and a member of the **Brain and Behaviour Laboratory** at **Imperial College London, UK**. My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyze electromyography (EMG) recordings. By decoding muscle-related neural signals, I aim to enhance human-machine interactions and develop innovative assistive technologies.  
-
-Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and currently lead the **Bayreuth AI Association**, a community dedicated to exploring the practical applications of **AI and machine learning** across disciplines.  
-
-I am also a **co-founder of LAT Bionics**, a Peru-based company committed to designing and fitting **low-cost, customized hand prostheses** for individuals with limb differences.  
+I am a **doctoral researcher** at the **Chair of Digital Health with a Focus on Data Science** (University of Bayreuth, Germany) and a member of the **Brain and Behaviour Laboratory** at **Imperial College London, UK**. My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyse electromyography (EMG) recordings. By decoding muscle-related signals even at the individual neuron level, my goal is to expand the human output bandwith and improve control over EMG-based human-machine interfaces. 
 
 My past projects have explored various aspects of **human augmentation and rehabilitation technology**, including:  
 - Studying how people learn to control an **additional robotic finger** while playing the piano.  
 - Developing both **myoelectric** and **body-powered hand prostheses** to improve accessibility in prosthetic solutions.  
 - Designing **supernumerary robotic fingers** to enhance grasping capabilities.  
 
-Through my work, I aim to bridge the gap between **neuroscience, engineering, and assistive technology**, pushing the boundaries of what is possible in human augmentation.  
+Through my work, I aim to bridge the gap between **neuroscience, engineering, and assistive technology**, pushing the boundaries of what is possible in human augmentation.
+
+Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and am currently a leader of the **Bayreuth AI Association**, a space for the open exchange of ideas and experiences in the hands-on use of **Artificial Intelligence and Machine Learning** with a focus on the practical implementation of algorithms through group projects.
+
+I am also a **co-founder of LAT Bionics**, a Peru-based company committed to designing and fitting **low-cost, customised hand prostheses** for individuals with limb differences.
+
+My projects have been featured in several media outlets from the UK, Peru, and Germany. **Scientific Reports**, **Imperial College News**, and major international media outlets like **Reuters** and **New Scientist**.
 
 Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](../contact/) for collaborations or inquiries about my work.
 

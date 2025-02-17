@@ -11,7 +11,7 @@ permalink: /
 
 ## About Me
 
-PhD Student at the Chair of Digital Health (Bayreuth, Germany) and the Brain and Behaviour Laboratory (London, UK).  
+I am a PhD Student at the Chair of Digital Health (Bayreuth, Germany) and the Brain and Behaviour Laboratory (London, UK).  
 
 - **Co-founder**: [LAT Bionics](#) (a company based in Peru dedicated to low-cost customised hand prostheses).  
 - **Chevening Alumnus**: Class of 2018.  
