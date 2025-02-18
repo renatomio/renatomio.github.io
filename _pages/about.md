@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Renato Mio - Neurotechnology and Wearable Robotics"
+title: "Renato Mio - Neurotechnology and Augmentation"
 author_profile: true
 layout: single
 hide_title: true
