@@ -1,4 +1,4 @@
-/* Justify all text across the website */
-body {
+/* Apply justification to all pages with class "justify-text" */
+.justify-text {
     text-align: justify;
 }
