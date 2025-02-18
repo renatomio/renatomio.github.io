@@ -4,6 +4,7 @@ title: "Renato Mio - Neurotechnology and Wearable Robotics"
 author_profile: true
 layout: single
 hide_title: true
+class: justify-text
 redirect_from: 
   - /about/
   - /about.html
