@@ -29,7 +29,6 @@ My projects have been featured in several media outlets from the UK, Peru, and G
 Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](../contact/) for collaborations or inquiries about my work.
 
 ## Latest News  
-Here are some recent updates from my work:
 
 - **02/2025**: Our **paper** on the [body-powered supernumerary robotic finger](https://github.com/renatomio/bpSRF) was accepted at [ICORR 2025](https://icorr-c.org/icorr_2025/), part of the [RehabWeek](https://rehabweek.org/) to be taking place this May in Chicago.
 - **11/2024**: Two **papers** published on the [experimental characterisation of a soft robotic device for mechanotherapy](https://ieeexplore.ieee.org/document/10782663) and the [computational analysis of its interaction with skin-muscle tissue](https://ieeexplore.ieee.org/document/10782886).
