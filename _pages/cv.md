@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 hide_title: true
 author_profile: true
@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-## My CV  
 
 You can view my CV below or [download it here](https://drive.google.com/file/d/1yG_ZULg2Rd-hX4Kb4vo0NBpq1U3nUvii/view?usp=sharing).  
 
