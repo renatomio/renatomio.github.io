@@ -26,7 +26,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher on neurotechnology and augmentation"
   location         : 
-  employer         : "University of Bayreuth & Imperial College London"
+  employer         :  >
+    University of Bayreuth &
+    Imperial College London
   uri              : # URL
   email            : # email address 
 
