@@ -3,7 +3,7 @@ title: "Design of a 3D-Printable Powered Prosthetic Hand for Transmetacarpal Amp
 collection: publications
 category: conferences
 permalink: /publication/2017-3d-printable-powered-hand
-excerpt: "This paper describes the design and implementation of a 3D-printable powered prosthetic hand for transmetacarpal amputees."
+excerpt: ""
 date: 2017-03-15
 venue: "Advances in Automation and Robotics Research in Latin America, Lecture Notes in Networks and Systems, Springer International Publishing AG"
 slidesurl: " "  # Add link to slides if available
