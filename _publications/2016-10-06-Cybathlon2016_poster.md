@@ -3,6 +3,7 @@ title: "Personalized Fingers Design with Silicone Rubber Texture Fingertip for I
 collection: publications
 category: posters
 permalink: /publication/2016-cybathlon-fingers-design
+excerpt: ""
 date: 2016-10-06
 venue: "Cybathlon Symposium 2016"
 paperurl: "https://ethz.ch/content/dam/ethz/special-interest/conference-websites-dam/cybathlon-symp-dam/documents/Cybathlon%20Symposium%20Booklet.pdf"
