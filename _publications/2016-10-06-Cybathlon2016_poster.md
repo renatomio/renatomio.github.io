@@ -6,7 +6,6 @@ permalink: /publication/2016-cybathlon-fingers-design
 excerpt: "This poster presents a study on personalized finger designs using silicone rubber textures to enhance grip in powered hand prostheses."
 date: 2016-10-06
 venue: "Cybathlon Symposium 2016"
-slidesurl: " "
 paperurl: "https://ethz.ch/content/dam/ethz/special-interest/conference-websites-dam/cybathlon-symp-dam/documents/Cybathlon%20Symposium%20Booklet.pdf"
 citation: "R. Mio and M. Bustamante. “Personalized fingers design with silicone rubber texture fingertip for increased grip in transmetacarpal powered hand prostheses”, Cybathlon Symposium’16 (Booklet pp42)."
 ---
