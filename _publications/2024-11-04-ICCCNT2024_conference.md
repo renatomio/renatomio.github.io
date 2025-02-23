@@ -3,11 +3,10 @@ title: "Kinematic Variability in Healthy and Hemiplegic Gait Using OpenSim: A Qu
 collection: publications
 category: conferences
 permalink: /publication/2024-kinematic-variability-opensim
-excerpt: "This paper explores kinematic variability in healthy and hemiplegic gait using OpenSim, presenting quantitative insights."
-date: 2024-01-01
+excerpt: ""
+date: 2024-12-17
 venue: "15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India"
-slidesurl: " "  # Add link to slides if available
 paperurl: "https://doi.org/10.1109/ICCCNT61001.2024.10725621"
 citation: "S. Younis, J. Narayan, R. Mio and A. Bishnoi, “Kinematic Variability in Healthy and Hemiplegic Gait Using OpenSim: A Quantitative Study,” 2024 15th International Conference on Computing Communication and Networking Technologies (ICCCNT), Kamand, India, 2024, pp. 1-6, doi: 10.1109/ICCCNT61001.2024.10725621."
 ---
-This paper provides a quantitative analysis of gait variability in healthy individuals and hemiplegic patients using OpenSim, highlighting key kinematic differences and their implications for rehabilitation.
+This research investigates how Opensim, a tool for biomechanical modeling, can be used to analyze musculoskeletal changes in all three planes, namely, sagittal, frontal, and transverse planes, in individuals with hemiplegia compared to those in a healthy model. Contralateral hemiplegia (CH), marked by one-sided paralysis, triggers significant alterations in bone size and notably affects an individual’s walking pattern. Driven to comprehend the biomechanical impacts of CH on human motion, we examined ten CH patients with a median age of 46 years (range: 39-52.0 years) and a height of 1.75±0.6m. OpenSim’s inverse kinematics feature allows for a thorough comparison of joint angles between individuals with health conditions and those with unhealthy ones. Ten individuals with similar body characteristics and in good health were also enlisted. We evaluated musculoskeletal alterations following CH by analyzing bone length data extracted from MRI reports acquired from a hospital. The gait data is presented and scrutinized through statistical methods, including mean absolute deviation, box plots, and a two-sample t-test. The outcomes uncovered substantial disparities in hip flexion, lumbar bending, lumbar extension, pelvis tilt, and ankle joint angles between healthy individuals and those with hemiplegia, supported by significantly low p-values. Notably, no significant distinction was detected in hip adduction, hip rotation, lumbar rotation, pelvic rotation, or knee and subtalar joint angles (p>0.05). These findings enrich our comprehension of hemiplegia-related musculoskeletal changes, suggesting potential avenues for personalized interventions to enhance mobility.

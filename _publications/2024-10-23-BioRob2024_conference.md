@@ -3,11 +3,10 @@ title: "A Low-Cost Upper-Limb Prosthetic Tool for Handlebar-Driven Vehicles"
 collection: publications
 category: conferences
 permalink: /publication/2024-handlebar-prosthetic-tool
-excerpt: "This paper introduces a low-cost prosthetic tool designed to assist upper-limb amputees with handlebar-driven vehicles."
+excerpt: ""
 date: 2024-10-23
-venue: "IEEE RAS EMBS 10th International Conference on Biomedical Robotics and Biomechatronics (BioRob 2024)"
-slidesurl: " "
-paperurl: " "
+venue: "IEEE RAS EMBS 10th International Conference on Biomedical Robotics and Biomechatronics (BioRob 2024), Heidelberg"
+paperurl: "https://ieeexplore.ieee.org/document/10719816"
 citation: "R. Borja-Inga, R. Mio, and J. Narayan. “A Low-Cost Upper-Limb Prosthetic Tool for Handlebar-Driven Vehicles”, IEEE RAS EMBS 10th International Conference on Biomedical Robotics and Biomechatronics (BioRob 2024)."
 ---
-This poster presents a novel, affordable prosthetic tool specifically designed to aid upper-limb amputees in operating handlebar-driven vehicles. The design leverages low-cost materials and intuitive mechanisms, ensuring accessibility and functionality. The project highlights its potential for real-world applications and improving quality of life for users.
+The loss of an upper limb can significantly affect patients' daily lives. Recent efforts in prosthetics focus on replacing the lost limb with a tool that enables patients to carry out the main activities of daily living. Upper-limb amputees seek to use bicycles, motorbikes, and scooters, which often require vehicle adaptations or custom devices. This research aims to develop an easy-to-use, versatile prosthetic tool for handlebar-driven vehicles. The tool adapts to various handlebar diameters and includes a locking mechanism for safe, effortless use. Additionally, the palm and thumb of the prosthetic tool are coated with polyester and nitrile for increased friction and secure grip between the prosthetic tool and the handlebar. The prosthetic tool was validated and assessed for usability on non-amputee subjects (n=21) wearing a prosthetic simulator. Participants drove a bicycle along three variations of a cycling circuit, repeating each cycle three times. Task completion times and usability were measured using video recordings and questionnaires, respectively. Experimental results confirmed the device's mechanical durability, as the same prototype was used by all participants without showing signs of wear. Additionally, participants improved their task completion times from 50.6 ± 5.4s to 44.2 ± 2.9s between the first and last cycle, suggesting a quick learning effect in its use. The prosthetic tool demonstrated high levels of perceived comfort and ease of use, with 71.43% and 85.71 % of participants, respectively, indicating strong agreement. Overall, this prosthetic tool has the potential to expand the range of activities and the independence of upper-limb amputees while maintaining a level of aesthetics and a low manufacturing cost.

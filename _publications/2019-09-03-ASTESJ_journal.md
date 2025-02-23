@@ -3,7 +3,7 @@ title: "Mechanical Testing Methods for Body-Powered Upper-Limb Prostheses: A Cas
 collection: publications
 category: manuscripts
 permalink: /publication/2019-mechanical-testing-case-study
-excerpt: 'This case study examines mechanical testing methods for body-powered upper-limb prostheses.'
+excerpt: ''
 date: 2019-09-03
 venue: "Advances in Science, Technology and Engineering Systems Journal"
 paperurl: 'https://www.astesj.com/v04/i05/p08/'
