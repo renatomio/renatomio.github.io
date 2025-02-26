@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Renato Mio - Neurotechnology and Augmentation"
+title: "Renato Mio - Neurotechnology & Augmentation"
 author_profile: true
 layout: single
 hide_title: true
@@ -9,8 +9,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
---Page under construction--
 
 I am a **doctoral researcher** at the **Chair of Digital Health with a Focus on Data Science** (University of Bayreuth, Germany) and a member of the **Brain and Behaviour Laboratory** at **Imperial College London, UK**. My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyse electromyography (EMG) recordings. By decoding muscle-related signals even at the individual neuron level, my goal is to expand the human output bandwith and improve control over EMG-based human-machine interfaces. 
 
