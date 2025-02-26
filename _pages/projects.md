@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 layout: single
 hide_title: true
-class: justify-text´
+class: justify-text
 ---
 
 
