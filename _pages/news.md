@@ -9,110 +9,46 @@ class: justify-text
 
 # News Archive
 
-**February 2023**
+**02/2025** Ended the semester by presenting a **poster** at the **[AI Day](https://www.rais2.uni-bayreuth.de)** at Uni Bayreuth, representing the [AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html). It was a great opportunity to connect with others using **AI/ML** in their research!
 
-- **Wearable Robotics Workshop:** Participated in the [Wearable Robotics Workshop](https://www.wearablerobotics.com) in Pisa, Italy. Gained hands-on experience with the latest wearable robotic technologies.
+**02/2025** New **paper** accepted! Our paper on the [body-powered supernumerary robotic finger](https://github.com/RenatoMio/bpSRF) was accepted at [ICORR 2025](https://icorr-c.org), part of [RehabWeek](https://rehabweek.org) taking place this May in Chicago.
 
-**January 2023**
+**12/2024** New **[repository](https://github.com/RenatoMio/bpSRF)** published! Released the **bpSRF**, a body-powered supernumerary robotic finger for hand augmentation that requires no electronic components. The [repository](https://github.com/RenatoMio/bpSRF) includes files for 3D printing and full assembly instructions.
 
-- **Research Collaboration:** Initiated a research collaboration with the [BioRobotics Institute](https://www.santannapisa.it/en/institute/biorobotics) at Scuola Superiore Sant'Anna in Pisa, focusing on soft robotics for rehabilitation.
+**11/2024** Two **papers** published on the [experimental characterization of a soft robotic device for mechanotherapy](https://ieeexplore.ieee.org/document/10782663) and the [computational analysis of its interaction with skin-muscle tissue](https://ieeexplore.ieee.org/document/10782886).
 
-**December 2022**
+**11/2024** Our [Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html) is now live on LinkedIn! Follow us [here](https://www.linkedin.com/company/bayreuth-ai-association/).
 
-- **Conference Presentation:** Presented a paper at the [IEEE International Conference on Robotics and Biomimetics (ROBIO 2022)](https://www.ieee-robio.org/2022/), discussing advancements in bio-inspired robotic systems.
+**10/2024** Our **[paper](https://ieeexplore.ieee.org/document/10719816)** on the upper-limb prosthetic tool for handlebar-driven vehicles is now live on IEEE Xplore.
 
-**November 2022**
+**09/2024** Presented a **[poster](https://drive.google.com/file/d/1gZYVSDfa1JtAwqObbTi2WXZDAx2tNI-v/view?usp=drive_link)** on a low-cost upper-limb prosthetic tool for handlebar-driven vehicles at [BioRob 2024](https://www.biorob2024.org) in Heidelberg, Germany.
 
-- **Journal Publication:** Co-authored an article published in the [Journal of NeuroEngineering and Rehabilitation](https://jneuroengrehab.biomedcentral.com/), exploring new methods in neuroprosthetics.
+**07/2024** Completed the **[certification](https://portal.neuromatchacademy.org/certificate/1bc42cc1-9dea-4526-a6ee-c671a9172016)** for the [NeuroAI course](https://neuroai.neuromatch.io) by Neuromatch Academy. Ready to apply what I learned on neuro-inspired AI and ML!
 
-**October 2022**
+**07/2024** Presented a **[poster](https://drive.google.com/file/d/1yv2fcYvdUpcuaJlFeGLkEX01z2izDLAD/view?usp=sharing)** at the [HybridNeuro 2024](https://www.hybridneuro.feri.um.si/summerschools/summer_school_mb.html) meeting in Maribor, Slovenia. It was a great opportunity to delve into techniques for improving the motor unit decomposition pipeline and network with talented academics in the field.
 
-- **Workshop Attendance:** Attended the [International Workshop on Soft Robotics](https://www.softroboticsworkshop.com) in Zurich, Switzerland, enhancing knowledge in compliant robotic systems.
+**05/2024** **Featured** by [UBTaktuell](https://ubtaktuell.uni-bayreuth.de/en/bayreuth-ai-association) for co-founding the new [Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html), aiming to create a space for the open exchange of ideas and experiences in the hands-on use of AI/ML algorithms.
 
-**September 2022**
+**04/2024** Presented a **[poster](https://drive.google.com/file/d/17kBlPfE_kr3WV9e0rjOBWC9FSO4G9oKw/view?usp=sharing)** at the [Neural Control of Movement (NCM)](https://ncm-society.org) meeting in Dubrovnik, Croatia. Highlights included talks and posters by Meta on non-invasive neural interfacing.
 
-- **Grant Awarded:** Received a research grant from the [European Research Council (ERC)](https://erc.europa.eu/) to develop innovative solutions in human-robot interaction.
+**12/2023** Presented a **[poster](https://drive.google.com/file/d/1-DpTwF4H6sdqBJrMI3x_ZBgHl-5VQmVk/view?usp=sharing)** at the [Neurophysiological Bases of Human Movement](https://www.physoc.org/events/neurophysiological-bases-of-human-movement/) meeting at King’s College London, UK. Discussions with other researchers applying motor unit decomposition inspired new approaches for upcoming projects.
 
-**August 2022**
+**12/24** Our lab was featured by **[Zeit](https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten)**, **[SAT1](https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f)**, **[Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170)**, and **[idw](https://nachrichten.idw-online.de/2023/12/04/university-of-bayreuth-opens-kulmbach-live-in-lab-for-holistic-research-on-digital-health)** regarding our “live-in-lab,” an apartment equipped with sensors for real-world human behavior studies. More information in this [press release](https://www.uni-bayreuth.de/press-releases/AI-wearables-neurological-diseases).
 
-- **Summer School Participation:** Completed the [Summer School on NeuroRehabilitation](https://ssnr2022.org/) in Valencia, Spain, focusing on cutting-edge neurorehabilitation technologies.
+**11/2023** Attended the **Augmentation Day** workshop at Imperial College London, featuring expert talks and live demos of the **[MUVE system](https://www.imperial.ac.uk/human-robotics/dr-octopus-/)**. Controlling extra arms was a surreal experience.
 
-**July 2022**
+**09/2023** **Featured** by **[Andina News](https://andina.pe/agencia/noticia-invento-peruano-para-recubrir-protesis-mano-fue-premiado-corea-del-sur-954860.aspx)** and **[El Peruano](https://www.elperuano.pe/noticia/223247-invento-peruano-es-premiado-en-corea)** regarding our patent on finger covers for hand prostheses, recognized at an Inventions Contest in Korea (KIWIE 2023).
 
-- **Patent Filed:** Filed a patent for a novel design of a wearable exoskeleton aimed at assisting individuals with mobility impairments.
+**07/2023** Our **[paper](https://www.nature.com/articles/s41598-021-00376-6)** on human augmentation was **featured** as **[Editor’s choice: interfacing humans with machines](https://www.nature.com/collections/iebjagjadb)** in Nature Science Reports.
 
-**June 2022**
+**06/2023**
 
-- **Keynote Speaker:** Delivered a keynote speech at the [International Conference on Rehabilitation Robotics (ICORR 2022)](https://www.icorr2022.org/), sharing insights on the future of assistive technologies.
+A month jam-packed with conferences! I attended the **[10th BCI meeting](https://bcisociety.org/bci-meeting/past-meetings/)** in Brussels and presented (virtually) at the **[IEEE BioSmart 23′](https://www.biosmart-conference.org/)** on my work on supernumerary robotic fingers for assistance ([link to paper](https://ieeexplore.ieee.org/document/10162114)). Then, I also gave an oral presentation at the **[2023 Summer School on Neurorehabilitation](https://2023.summerschoolneurorehabilitation.org)** on my work in motor unit decomposition over individual fingers ([link to slides](https://drive.google.com/file/d/1-HyJaLUFHGsnG2T6gvZWTOqyVgjK2bR5/view?usp=drive_link), short paper in Springer coming up). Finally, I also attended **[Munich’s Automatica](https://automatica-munich.com/en/)**.
 
-**May 2022**
+**May 2023**
 
-- **Research Publication:** Published a paper in [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai), detailing the development of a new control algorithm for prosthetic devices.
+- **Patent Recognition:** Our patent on finger covers for hand prostheses was recognized at the [Korea International Women's Invention Exposition (KIWIE 2023)](https://kiwie.or.kr).
 
-**April 2022**
+**April 2023**
 
-- **Collaboration Established:** Established a partnership with the [Italian Institute of Technology (IIT)](https://www.iit.it/) to work on projects related to humanoid robotics.
-
-**March 2022**
-
-- **Award Recognition:** Honored with the 'Young Investigator Award' at the [European Robotics Forum (ERF 2022)](https://www.eu-robotics.net/robotics_forum/), recognizing contributions to the field of robotics.
-
-**February 2022**
-
-- **Workshop Participation:** Engaged in the [Human-Robot Interaction Workshop](https://humanrobotinteraction.org/2022/) in Daegu, South Korea, discussing ethical implications of robotics in society.
-
-**January 2022**
-
-- **New Lab Opening:** Opened a new research laboratory dedicated to the study of biohybrid systems, integrating biological tissues with robotic platforms.
-
-**December 2021**
-
-- **Conference Attendance:** Attended the [IEEE International Conference on Intelligent Robots and Systems (IROS 2021)](https://www.iros2021.org/), exploring the latest advancements in intelligent systems.
-
-**November 2021**
-
-- **Research Funding:** Secured funding from the [Horizon Europe](https://ec.europa.eu/programmes/horizon2020/en) program for a project on adaptive robotic prosthetics.
-
-**October 2021**
-
-- **Journal Article Published:** Published research findings in the [Journal of Robotics](https://www.hindawi.com/journals/jr/), focusing on the development of soft actuators for medical applications.
-
-**September 2021**
-
-- **Conference Presentation:** Presented at the [International Conference on Biomedical Robotics and Biomechatronics (BioRob 2021)](https://www.biorob2021.org/), discussing innovations in wearable robotics.
-
-**August 2021**
-
-- **Workshop Attendance:** Participated in the [Soft Robotics Workshop](https://softroboticsworkshop2021.org/) in Tokyo, Japan, learning about the latest materials and designs in soft robotics.
-
-**July 2021**
-
-- **Research Collaboration:** Began a collaborative project with [ETH Zurich](https://ethz.ch/en.html) on the development of bioinspired robotic limbs.
-
-**June 2021**
-
-- **Patent Application:** Submitted a patent application for a new type of sensor system for prosthetic hands, enhancing tactile feedback for users.
-
-**May 2021**
-
-- **Keynote Address:** Delivered a keynote address at the [International Symposium on Wearable Robotics](https://www.werob2021.org/), focusing on the integration of AI in wearable assistive devices.
-
-**April 2021**
-
-- **Research Paper Published:** Co-authored a paper in [IEEE Transactions on Neural Systems and Rehabilitation Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7333), presenting a novel approach to neural control of prosthetic limbs.
-
-**March 2021**
-
-- **Conference Participation:** Participated in the [RehabWeek 2021](https://www.rehabweek.org/), engaging in discussions on the future of rehabilitation technologies.
-
-**February 2021**
-
-- **Award Received:** Received the 'Best Paper Award' at the [International Conference on Robotics and Automation (ICRA 2021)](https://www.icra2021.org/) for research on adaptive control systems in robotics.
-
-**January 2021**
-
-- **Lab Expansion:** Expanded the research lab to include a new wing dedicated to the study of neural interfaces for prosthetic control.
-
-**December 2020**
-
-- **Journal Publication:** Published an article in [Science Robotics](https://www.sciencemag.org/journals 
+- **New Collaboration:** Started a collaboration with the [University of Bayreuth](https://www.uni-bayreuth.de) on a project involving motor unit decomposition and control of supernumerary robotic devices.
