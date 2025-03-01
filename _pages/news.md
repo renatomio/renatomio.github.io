@@ -41,14 +41,8 @@ class: justify-text
 
 **07/2023** Our **[paper](https://www.nature.com/articles/s41598-021-00376-6)** on human augmentation was **featured** as **[Editor’s choice: interfacing humans with machines](https://www.nature.com/collections/iebjagjadb)** in Nature Science Reports.
 
-**06/2023**
+**06/2023** A month jam-packed with conferences! I attended the **[10th BCI meeting](https://bcisociety.org/bci-meeting/past-meetings/)** in Brussels and presented (virtually) at the **[IEEE BioSmart 23′](https://www.biosmart-conference.org/)** on my work on supernumerary robotic fingers for assistance ([link to paper](https://ieeexplore.ieee.org/document/10162114)). Then, I also gave an oral presentation at the **[2023 Summer School on Neurorehabilitation](https://2023.summerschoolneurorehabilitation.org)** on my work in motor unit decomposition over individual fingers ([link to slides](https://drive.google.com/file/d/1-HyJaLUFHGsnG2T6gvZWTOqyVgjK2bR5/view?usp=drive_link), short paper in Springer coming up). Finally, I also attended **[Munich’s Automatica](https://automatica-munich.com/en/)**.
 
-A month jam-packed with conferences! I attended the **[10th BCI meeting](https://bcisociety.org/bci-meeting/past-meetings/)** in Brussels and presented (virtually) at the **[IEEE BioSmart 23′](https://www.biosmart-conference.org/)** on my work on supernumerary robotic fingers for assistance ([link to paper](https://ieeexplore.ieee.org/document/10162114)). Then, I also gave an oral presentation at the **[2023 Summer School on Neurorehabilitation](https://2023.summerschoolneurorehabilitation.org)** on my work in motor unit decomposition over individual fingers ([link to slides](https://drive.google.com/file/d/1-HyJaLUFHGsnG2T6gvZWTOqyVgjK2bR5/view?usp=drive_link), short paper in Springer coming up). Finally, I also attended **[Munich’s Automatica](https://automatica-munich.com/en/)**.
+02/2023 Lab retreat time! Presented a poster at the Bayreuth Lab for Digital Sciences (BayLDS) Day together with our lab colleagues visiting from London. Then, we spent three days at Kloster Speinshart for a science retreat. We even met the town’s mayor! (Link to photos)
 
-**May 2023**
-
-- **Patent Recognition:** Our patent on finger covers for hand prostheses was recognized at the [Korea International Women's Invention Exposition (KIWIE 2023)](https://kiwie.or.kr).
-
-**April 2023**
-
-- **New Collaboration:** Started a collaboration with the [University of Bayreuth](https://www.uni-bayreuth.de) on a project involving motor unit decomposition and control of supernumerary robotic devices.
+10/2022 Presented a poster at the Third Neuroadaptive Technologies Conference, at Lübennau (Germany) on my previous work in human augmentation and motor learning.
