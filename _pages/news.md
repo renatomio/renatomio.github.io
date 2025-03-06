@@ -54,3 +54,51 @@ class: justify-text
 **11/2021** **[Invited talk](https://www.facebook.com/EMBSUDEM/photos/pcb.3108688999350272/3108687176017121/)** on **artificial limbs** @ Engineering Update 2021 organised by the IEEE EMBS, RAS and WIE Student Chapters from Universidad de Monterrey (Mexico).
 
 **11/2021** Published **[paper](https://www.nature.com/articles/s41598-021-00376-6)** on Nature’s Scientific Reports. This paper is related to my MSc thesis work on human augmentation.
+
+**10/2021** **Paper presented** @ [43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society](https://embc.embs.org/2021/) on the design of a soft robotic device for blood flow stimulation. More in this **[related tweet](https://twitter.com/VTicllacuri/status/1473443604458835971)**.
+
+**09/2021** **[Invited talk](https://www.facebook.com/itec.ucb/photos/pcb.909121123293923/909120939960608)** on **artificial limbs** @ Innovation, Technology and Engineering Congress 2021 organised by the IEEE EMBS Universidad Católica Boliviana (Bolivia) Student Chapter.
+
+**08/2021** **[Featured](https://www.dailymail.co.uk/sciencetech/article-9879571/Pianists-fitted-robotic-THUMB-adjust-playing-hour.html)** on the Daily Mail UK news website on my previous collaborative work on robotic augmentation and motor learning at the [Brain and Behaviour Laboratory](https://faisallab.org/) (Imperial College London). Also featured in [Imperial College News](https://www.imperial.ac.uk/news/232077/pianists-learn-play-with-robotic-third/), [Reuters](https://www.reuters.com/lifestyle/hands-on-experience-pianists-learn-play-with-robot-thumb-2021-08-25/), [New Scientist](https://www.newscientist.com/article/2286166-pianists-fitted-with-robotic-thumb-can-learn-to-play-with-11-digits/), [CBC](https://www.cbc.ca/player/play/video/1.6152450), [VOA](https://learningenglish.voanews.com/a/pianists-learn-to-play-with-an-extra-robotic-thumb/6017583.html), [Yahoo News](https://uk.news.yahoo.com/pianists-learn-play-extra-robotic-135848516.html?soc_src=social-sh&soc_trk=ma), [Mirror](https://www.mirror.co.uk/news/uk-news/piano-players-extra-robotic-thumb-25796622), and other media.
+
+**07/2021** **Paper accepted** **@[EMBC 2021](https://embc.embs.org/2021/)** on **soft robotic device for muscle stimulation** . You can read the accepted version [here](https://drive.google.com/file/d/1HwdA33V4l3RliMXo17TS3gaKpjW_5E7E/view?usp=sharing).
+
+**07/2021** **[Invited talk](https://www.instagram.com/p/CRAMueuBpkT/?igsh=dmN1cjF4N3c1MnJz)** on **artificial limbs** organised by the IEEE EMBS Universidad de Concepción (Chile) Student Chapter. You can watch my talk [here](https://www.youtube.com/watch?v=_K_-gehujjw&ab_channel=CapituloEMBS-UniversidaddeConcepci%C3%B3n) (in Spanish).
+
+**03/2021** **[Invited talk](https://web.facebook.com/ieeeembspucp/photos/a.658380374269020/3774266642680362/)** on **upper limb prostheses** organised by the IEEE EMBS PUCP Student Chapter. You can watch my talk [here](https://www.youtube.com/watch?v=690QnZdWcY8) (in Spanish).
+
+**02/2021 [Featured](https://andina.pe/agencia/noticia-investigadores-fabrican-protesis-mioelectrica-personalizada-mano-832760.aspx)** on Andina News on our work on myoelectric prostheses.
+
+**01/2021** Co-founded a **[new company](https://www.instagram.com/latbionics/)** on low-cost rehabilitation robotics technology. Go follow [**LAT Bionics**](https://www.instagram.com/latbionics/) for pics and videos of our hand prostheses!
+
+**12/2020** Thanks to a **[new applied research grant](https://fondecyt.gob.pe/convocatorias/investigacion-cientifica/proyectos-de-investigacion-aplicada-y-desarrollo-tecnologico-2020)** we will be working on the development of a novel transhumeral prosthesis controlled by biosignals.
+
+**05/2020** New preprint **[paper](https://www.biorxiv.org/content/10.1101/2020.05.21.108407v1)** on our study about motor learning with an additional robotic finger.
+
+**03/2020** Started working as hired lecturer @ [PUCP](https://www.pucp.edu.pe/). See my lecturer [profile page](https://www.pucp.edu.pe/profesor/renato-mio-zaldivar).
+
+**09/2019** Successfully presented my MSc thesis on human augmentation and motor control after working at Imperial’s [Brain and Behaviour Laboratory](https://faisallab.org/). In conclusion, the ability to control an extra robotic finger highly depends on the skill controlling the interface (using foot motor control in our case). You can read my thesis **[here](https://drive.google.com/file/d/16fGioBBXrskITUK8BoLS5npNdiU-4xFP/view?usp=sharing)**.
+
+**08/2019** Published **[paper](https://astesj.com/v04/i05/p08/)** on mechanical testing methods applied to a 3D printed prosthetic hand.
+
+**11/2018** Awarded **[Best Student Paper](https://bibe2018.asia.edu.tw/uploads/asset/data/659626b8367376243a65b6c3/data-paper-std-status-award-1.pdf)** at the [18th IEEE International Conference on BioInformatics and BioEngineering](http://bibe2018.asia.edu.tw/). Read the paper [here](https://ieeexplore.ieee.org/document/8567461).
+
+**10/2018** 2 [**papers**](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=renato%20mio%20BIBE) presented @ [18th IEEE International Conference on BioInformatics and BioEngineering](http://bibe2018.asia.edu.tw/) in Taiwan.
+
+**07/2018 [Invited talk](https://blogs.ucontinental.edu.pe/somoscontinental/eventos/ingenieria-y-ciencias-de-la-salud-conferencia-bioingenieria-y-tecnologia-al-servicio-de-la-salud/)** “Bioengineering and Technology for Healthcare” @Universidad Continental (Peru)
+
+**04/2018** **[Featured](https://puntoedu.pucp.edu.pe/noticias/manos-inteligentes/)** on [PUCP news website](https://puntoedu.pucp.edu.pe/) on our work on bionic hand prosthetics.
+
+**03/2018** [**Paper**](https://link.springer.com/chapter/10.1007/978-3-030-16423-2_9) @ [3rd Conference on Interdisciplinary Applications of Kinematics](https://www.uni-due.de/iak2018/) – A 3D-Printed Prosthetic Hand with Modular Reconfigurable Fingers.
+
+**08/2017** [**Featured**](https://larepublica.pe/sociedad/1073226-dando-una-mano-el-proyecto-que-busca-abaratar-el-costo-de-las-protesis/) on La República (news website) on our work in affordable 3D-printed hand prostheses.
+
+**04/2017** **[Featured](https://puntoedu.pucp.edu.pe/noticias/protesis-de-mano-3d-gana-fondo-ideas-audaces/)** on [PUCP news website](https://puntoedu.pucp.edu.pe/) on new social start-up [Giving a Hand](https://dandounamanoperu.org/).
+
+**03/2017 [Interviewed](https://www.youtube.com/watch?time_continue=13&v=WlIK1LMIvh8)** on TV Perú about 3D-printed hand prostheses and our social start-up [Giving a Hand](https://dandounamanoperu.org/).
+
+**10/2016 [Poster](https://drive.google.com/open?id=1AReTRqfMUp3RA9QZF6elTkuPuRKm-ecV)** presented @ [Cybathlon 2016 Symposium](https://cybathlon-symposium.ethz.ch/about-us/symposium-2016.html). Read the abstract [here](https://ethz.ch/content/dam/ethz/special-interest/conference-websites-dam/cybathlon-symp-dam/documents/Cybathlon%20Symposium%20Booklet.pdf) (pp 42).
+
+**08/2016** [GIRAB](https://investigacion.pucp.edu.pe/grupos/girab/) **co-organised** the first edition of **Makeathon** in Peru, an event in which students and professionals volunteered to develop open-source technological solutions for people with disabilities. Watch the [event’s video](https://www.youtube.com/watch?v=YoldwjsR4V8).
+
+**04/2016** Awarded [**1st place in Peru**](https://puntoedu.pucp.edu.pe/galerias/equipo-de-la-pucp-gana-primer-puesto-en-nasa-space-apps-challenge/) in the NASA Space Apps Challenge.
