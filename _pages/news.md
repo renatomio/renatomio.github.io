@@ -43,6 +43,14 @@ class: justify-text
 
 **06/2023** A month jam-packed with conferences! I attended the **[10th BCI meeting](https://bcisociety.org/bci-meeting/past-meetings/)** in Brussels and presented (virtually) at the **[IEEE BioSmart 23′](https://www.biosmart-conference.org/)** on my work on supernumerary robotic fingers for assistance ([link to paper](https://ieeexplore.ieee.org/document/10162114)). Then, I also gave an oral presentation at the **[2023 Summer School on Neurorehabilitation](https://2023.summerschoolneurorehabilitation.org)** on my work in motor unit decomposition over individual fingers ([link to slides](https://drive.google.com/file/d/1-HyJaLUFHGsnG2T6gvZWTOqyVgjK2bR5/view?usp=drive_link), short paper in Springer coming up). Finally, I also attended **[Munich’s Automatica](https://automatica-munich.com/en/)**.
 
-02/2023 Lab retreat time! Presented a poster at the Bayreuth Lab for Digital Sciences (BayLDS) Day together with our lab colleagues visiting from London. Then, we spent three days at Kloster Speinshart for a science retreat. We even met the town’s mayor! (Link to photos)
+**02/2023** Lab retreat time! Presented a **[poster](https://drive.google.com/file/d/1ygwcBTi8PtvGxqx8uHszD5LFPUuzTuYc/view?usp=sharing)** at the **Bayreuth Lab for Digital Sciences (BayLDS) Day** together with our lab colleagues visiting from London. Then, we spent three days at Kloster Speinshart for a science retreat. We even met the town’s mayor! ([Link to photos](https://www.instagram.com/p/Cor5p9SoE7g/?igsh=MTMwa3Byc2F3Zjl1Ng==))
 
-10/2022 Presented a poster at the Third Neuroadaptive Technologies Conference, at Lübennau (Germany) on my previous work in human augmentation and motor learning.
+**10/2022** Presented a **[poster](https://drive.google.com/file/d/1-zLH3QaTy1Wom51Xcm6TlYznGizKPvbA/view?usp=sharing)** at the [Third Neuroadaptive Technologies Conference](https://neuroadaptive.org/conference/2022/), at Lübennau (Germany) on my previous work in human augmentation and motor learning.
+
+**06/2022** Started new **PhD studies and research assistant position** at the [Chair of Digital Health with a Focus on Data Science](https://www.digital-health.uni-bayreuth.de/en/index.html) (University of Bayreuth, Germany). Excited to continue researching on human augmentation!
+
+**11/2021** Published **[paper](https://ieeexplore.ieee.org/document/9630974)** on the design of a soft robotic device for blood flow stimulation.
+
+**11/2021** **[Invited talk](https://www.facebook.com/EMBSUDEM/photos/pcb.3108688999350272/3108687176017121/)** on **artificial limbs** @ Engineering Update 2021 organised by the IEEE EMBS, RAS and WIE Student Chapters from Universidad de Monterrey (Mexico).
+
+**11/2021** Published **[paper](https://www.nature.com/articles/s41598-021-00376-6)** on Nature’s Scientific Reports. This paper is related to my MSc thesis work on human augmentation.
