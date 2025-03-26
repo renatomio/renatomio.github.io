@@ -9,6 +9,8 @@ class: justify-text
 
 # News Archive
 
+**03/2025** As part of my visit to Lima (Peru), I presented my work on **robotics and neural interfaces for human augmentation**. The talk is available [here]() in Spanish. 
+
 **02/2025** Ended the semester by presenting a **poster** at the **[AI Day](https://www.rais2.uni-bayreuth.de)** at Uni Bayreuth, representing the [AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html). It was a great opportunity to connect with others using **AI/ML** in their research!
 
 **02/2025** New **paper** accepted! Our paper on the [body-powered supernumerary robotic finger](https://github.com/RenatoMio/bpSRF) was accepted at [ICORR 2025](https://icorr-c.org), part of [RehabWeek](https://rehabweek.org) taking place this May in Chicago.
@@ -59,7 +61,7 @@ class: justify-text
 
 **09/2021** **[Invited talk](https://www.facebook.com/itec.ucb/photos/pcb.909121123293923/909120939960608)** on **artificial limbs** @ Innovation, Technology and Engineering Congress 2021 organised by the IEEE EMBS Universidad Católica Boliviana (Bolivia) Student Chapter.
 
-**08/2021** **[Featured](https://www.dailymail.co.uk/sciencetech/article-9879571/Pianists-fitted-robotic-THUMB-adjust-playing-hour.html)** on the Daily Mail UK news website on my previous collaborative work on robotic augmentation and motor learning at the [Brain and Behaviour Laboratory](https://faisallab.org/) (Imperial College London). Also featured in [Imperial College News](https://www.imperial.ac.uk/news/232077/pianists-learn-play-with-robotic-third/), [Reuters](https://www.reuters.com/lifestyle/hands-on-experience-pianists-learn-play-with-robot-thumb-2021-08-25/), [New Scientist](https://www.newscientist.com/article/2286166-pianists-fitted-with-robotic-thumb-can-learn-to-play-with-11-digits/), [CBC](https://www.cbc.ca/player/play/video/1.6152450), [VOA](https://learningenglish.voanews.com/a/pianists-learn-to-play-with-an-extra-robotic-thumb/6017583.html), [Yahoo News](https://uk.news.yahoo.com/pianists-learn-play-extra-robotic-135848516.html?soc_src=social-sh&soc_trk=ma), [Mirror](https://www.mirror.co.uk/news/uk-news/piano-players-extra-robotic-thumb-25796622), and other media.
+08/2021 Featured on the Daily Mail UK news website on my previous collaborative work on robotic augmentation and motor learning at the Brain and Behaviour Laboratory (Imperial College London). Also featured in Imperial College News, Reuters, New Scientist, CBC, VOA, Yahoo News, Mirror, and other media.
 
 **07/2021** **Paper accepted** **@[EMBC 2021](https://embc.embs.org/2021/)** on **soft robotic device for muscle stimulation** . You can read the accepted version [here](https://drive.google.com/file/d/1HwdA33V4l3RliMXo17TS3gaKpjW_5E7E/view?usp=sharing).
 
