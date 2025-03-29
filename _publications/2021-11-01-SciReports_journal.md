@@ -3,7 +3,7 @@ title: "Playing the piano with a robotic 3rd thumb: assessing constraints of hum
 collection: publications
 category: manuscripts
 permalink: /publication/2021-piano-supernumerary-thumb
-excerpt: 'This paper investigates the use of a supernumerary robotic thumb for learning piano playing.'
+excerpt: ''
 date: 2021-11-01
 venue: "Scientific Reports"
 paperurl: 'https://www.nature.com/articles/s41598-021-00376-6'
