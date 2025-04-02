@@ -9,7 +9,7 @@ class: justify-text
 
 # News Archive
 
-**03/2025** As part of my visit to Lima (Peru), I presented my work on **robotics and neural interfaces for human augmentation**. The talk is available [here]() in Spanish. 
+**03/2025** As part of my visit to Lima (Peru), I presented my work on **robotics and neural interfaces for human augmentation**. The talk is available [here](https://drive.google.com/file/d/1SAtT2kIoVoSqfjW59itUrFHPUzoJ6gan/view?usp=sharing) in Spanish. 
 
 **02/2025** Ended the semester by presenting a **poster** at the **[AI Day](https://www.rais2.uni-bayreuth.de)** at Uni Bayreuth, representing the [AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html). It was a great opportunity to connect with others using **AI/ML** in their research!
 
