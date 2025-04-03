@@ -12,27 +12,27 @@ class: justify-text
 **03/2025** As part of my visit to Lima (Peru), I presented my work on **robotics and neural interfaces for human augmentation**. The talk is available [here](https://drive.google.com/file/d/1SAtT2kIoVoSqfjW59itUrFHPUzoJ6gan/view?usp=sharing) in Spanish.
 
 <p align="center">
-  <img src="/images/news/2025/04/charlapucp2025_1.jpg" width="300">
-  <img src="/images/news/2025/04/charlapucp2025_2.jpg" width="300">
+  <img src="/images/news/2025/04/charlapucp2025_1.jpg" width="370">
+  <img src="/images/news/2025/04/charlapucp2025_2.jpg" width="370">
 </p>
 
 **02/2025** Ended the semester by presenting a **poster** at the **[AI Day](https://www.rais2.uni-bayreuth.de)** at Uni Bayreuth, representing the [AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html). It was a great opportunity to connect with others using **AI/ML** in their research!
 
 <p align="center">
-  <img src="/images/news/2025/02/ai_day_ubt.jpg" width="300">
-  <img src="/images/news/2025/02/ai_assoc_ai_day.jpg" width="300">
+  <img src="/images/news/2025/02/ai_day_ubt.jpg" width="370">
+  <img src="/images/news/2025/02/ai_assoc_ai_day.jpg" width="370">
 </p>
 
 **02/2025** New **paper** accepted! Our paper on the [body-powered supernumerary robotic finger](https://github.com/RenatoMio/bpSRF) was accepted at [ICORR 2025](https://icorr-c.org), part of [RehabWeek](https://rehabweek.org) taking place this May in Chicago.
 
 <p align="center">
-  <img src="/images/news/2025/02/bpsrf.png" width="300">
+  <img src="/images/news/2025/02/bpsrf.png" width="450">
 </p>
 
 **12/2024** New **[repository](https://github.com/RenatoMio/bpSRF)** published! Released the **bpSRF**, a body-powered supernumerary robotic finger for hand augmentation that requires no electronic components. The [repository](https://github.com/RenatoMio/bpSRF) includes files for 3D printing and full assembly instructions.
 
 <p align="center">
-  <img src="/images/news/2024/12/applications_bpsrf.png" width="300">
+  <img src="/images/news/2024/12/applications_bpsrf.png" width="450">
 </p>
 
 **11/2024** Two **papers** published on the [experimental characterization of a soft robotic device for mechanotherapy](https://ieeexplore.ieee.org/document/10782663) and the [computational analysis of its interaction with skin-muscle tissue](https://ieeexplore.ieee.org/document/10782886).
@@ -40,7 +40,7 @@ class: justify-text
 **11/2024** Our [Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html) is now live on LinkedIn! Follow us [here](https://www.linkedin.com/company/bayreuth-ai-association/).
 
 <p align="center">
-  <img src="/images/news/2024/12/ai_assoc_banner.png" width="300">
+  <img src="/images/news/2024/12/ai_assoc_banner.png" width="450">
 </p>
 
 **10/2024** Our **[paper](https://ieeexplore.ieee.org/document/10719816)** on the upper-limb prosthetic tool for handlebar-driven vehicles is now live on IEEE Xplore.
