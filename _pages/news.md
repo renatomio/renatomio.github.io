@@ -63,16 +63,10 @@ class: justify-text
 
 **04/2024** Presented a **[poster](https://drive.google.com/file/d/17kBlPfE_kr3WV9e0rjOBWC9FSO4G9oKw/view?usp=sharing)** at the [Neural Control of Movement (NCM)](https://ncm-society.org) meeting in Dubrovnik, Croatia. Highlights included talks and posters by Meta on non-invasive neural interfacing.
 
-<div style="display: flex; overflow-x: auto; gap: 10px; scroll-snap-type: x mandatory;">
-  <img src="/images/news/2024/04/ncm_1.jpg" style="width: 300px; scroll-snap-align: center;">
-  <img src="/images/news/2024/04/ncm_2.jpg" style="width: 300px; scroll-snap-align: center;">
-  <img src="/images/news/2024/04/ncm_3.jpg" style="width: 300px; scroll-snap-align: center;">
-</div>
-
 <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
-<a href="/images/news/2024/04/ncm_1.jpg" data-lightbox="gallery"><img src="/images/news/2024/04/ncm_1.jpg" width="200"></a>
-<a href="/images/news/2024/04/ncm_2.jpg" data-lightbox="gallery"><img src="/images/news/2024/04/ncm_2.jpg" width="200"></a>
-<a href="/images/news/2024/04/ncm_3.jpg" data-lightbox="gallery"><img src="/images/news/2024/04/ncm_3.jpg" width="200"></a>
+<a href="/images/news/2024/04/ncm_1.jpg" data-lightbox="gallery"><img src="/images/news/2024/04/ncm_1.jpg" width="250"></a>
+<a href="/images/news/2024/04/ncm_2.jpg" data-lightbox="gallery"><img src="/images/news/2024/04/ncm_2.jpg" width="250"></a>
+<a href="/images/news/2024/04/ncm_3.jpg" data-lightbox="gallery"><img src="/images/news/2024/04/ncm_3.jpg" width="250"></a>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
 
 **12/2023** Presented a **[poster](https://drive.google.com/file/d/1-DpTwF4H6sdqBJrMI3x_ZBgHl-5VQmVk/view?usp=sharing)** at the [Neurophysiological Bases of Human Movement](https://www.physoc.org/events/neurophysiological-bases-of-human-movement/) meeting at King’s College London, UK. Discussions with other researchers applying motor unit decomposition inspired new approaches for upcoming projects.
