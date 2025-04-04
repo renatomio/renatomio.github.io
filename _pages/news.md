@@ -63,7 +63,17 @@ class: justify-text
 
 **04/2024** Presented a **[poster](https://drive.google.com/file/d/17kBlPfE_kr3WV9e0rjOBWC9FSO4G9oKw/view?usp=sharing)** at the [Neural Control of Movement (NCM)](https://ncm-society.org) meeting in Dubrovnik, Croatia. Highlights included talks and posters by Meta on non-invasive neural interfacing.
 
+<div style="display: flex; overflow-x: auto; gap: 10px; scroll-snap-type: x mandatory;">
+  <img src="/images/news/2024/04/ncm_1.jpg" style="width: 300px; scroll-snap-align: center;">
+  <img src="/images/news/2024/04/ncm_2.jpg" style="width: 300px; scroll-snap-align: center;">
+  <img src="/images/news/2024/04/ncm_3.jpg" style="width: 300px; scroll-snap-align: center;">
+</div>
+
 **12/2023** Presented a **[poster](https://drive.google.com/file/d/1-DpTwF4H6sdqBJrMI3x_ZBgHl-5VQmVk/view?usp=sharing)** at the [Neurophysiological Bases of Human Movement](https://www.physoc.org/events/neurophysiological-bases-of-human-movement/) meeting at King’s College London, UK. Discussions with other researchers applying motor unit decomposition inspired new approaches for upcoming projects.
+
+<p align="center">
+  <img src="/images/news/2023/12/NPBHM2023.jpg" width="210">
+</p>
 
 **12/24** Our lab was featured by **[Zeit](https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten)**, **[SAT1](https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f)**, **[Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170)**, and **[idw](https://nachrichten.idw-online.de/2023/12/04/university-of-bayreuth-opens-kulmbach-live-in-lab-for-holistic-research-on-digital-health)** regarding our “live-in-lab,” an apartment equipped with sensors for real-world human behavior studies. More information in this [press release](https://www.uni-bayreuth.de/press-releases/AI-wearables-neurological-diseases).
 
