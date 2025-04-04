@@ -19,8 +19,8 @@ class: justify-text
 **02/2025** Ended the semester by presenting a **poster** at the **[AI Day](https://www.rais2.uni-bayreuth.de)** at Uni Bayreuth, representing the [AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html). It was a great opportunity to connect with others using **AI/ML** in their research!
 
 <p align="center">
-  <img src="/images/news/2025/02/ai_day_ubt.jpg" width="370">
-  <img src="/images/news/2025/02/ai_assoc_ai_day.jpg" width="370">
+  <img src="/images/news/2025/02/ai_day_ubt.jpg" width="323">
+  <img src="/images/news/2025/02/ai_assoc_ai_day.jpg" width="323">
 </p>
 
 **02/2025** New **paper** accepted! Our paper on the [body-powered supernumerary robotic finger](https://github.com/RenatoMio/bpSRF) was accepted at [ICORR 2025](https://icorr-c.org), part of [RehabWeek](https://rehabweek.org) taking place this May in Chicago.
