@@ -47,11 +47,19 @@ class: justify-text
 
 **09/2024** Presented a **[poster](https://drive.google.com/file/d/1gZYVSDfa1JtAwqObbTi2WXZDAx2tNI-v/view?usp=drive_link)** on a low-cost upper-limb prosthetic tool for handlebar-driven vehicles at [BioRob 2024](https://www.biorob2024.org) in Heidelberg, Germany.
 
+<p align="center">
+  <img src="/images/news/2024/09/biorob2024.jpg" width="350">
+</p>
+
 **07/2024** Completed the **[certification](https://portal.neuromatchacademy.org/certificate/1bc42cc1-9dea-4526-a6ee-c671a9172016)** for the [NeuroAI course](https://neuroai.neuromatch.io) by Neuromatch Academy. Ready to apply what I learned on neuro-inspired AI and ML!
 
 **07/2024** Presented a **[poster](https://drive.google.com/file/d/1yv2fcYvdUpcuaJlFeGLkEX01z2izDLAD/view?usp=sharing)** at the [HybridNeuro 2024](https://www.hybridneuro.feri.um.si/summerschools/summer_school_mb.html) meeting in Maribor, Slovenia. It was a great opportunity to delve into techniques for improving the motor unit decomposition pipeline and network with talented academics in the field.
 
 **05/2024** **Featured** by [UBTaktuell](https://ubtaktuell.uni-bayreuth.de/en/bayreuth-ai-association) for co-founding the new [Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html), aiming to create a space for the open exchange of ideas and experiences in the hands-on use of AI/ML algorithms.
+
+<p align="center">
+  <img src="/images/news/2024/05/ubtaktuell_ai.png" width="350">
+</p>
 
 **04/2024** Presented a **[poster](https://drive.google.com/file/d/17kBlPfE_kr3WV9e0rjOBWC9FSO4G9oKw/view?usp=sharing)** at the [Neural Control of Movement (NCM)](https://ncm-society.org) meeting in Dubrovnik, Croatia. Highlights included talks and posters by Meta on non-invasive neural interfacing.
 
