@@ -24,13 +24,15 @@ My past projects have explored various aspects of **human augmentation and rehab
 
 Through my work, I aim to bridge the gap between **neuroscience, engineering, and assistive technology**, pushing the boundaries of what is possible in human augmentation.
 
-Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and am currently a leader of the **Bayreuth AI Association**, a space for the open exchange of ideas and experiences in the hands-on use of **Artificial Intelligence and Machine Learning** with a focus on the practical implementation of algorithms through group projects.
+Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and am currently a leader of the **[Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html)**, a space for the open exchange of ideas and experiences in the hands-on use of **Artificial Intelligence and Machine Learning** with a focus on the practical implementation of algorithms through group projects.
 
 I am also a **co-founder of LAT Bionics**, a Peru-based company committed to designing and fitting **low-cost, customised hand prostheses** for individuals with limb differences.
 
+<!--- 
 My projects have been featured in several media outlets from the UK, Peru, and Germany. **Scientific Reports**, **Imperial College News**, and major international media outlets like **Reuters** and **New Scientist**.
+--->
 
-Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](../contact/) for collaborations or inquiries about my work.
+Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](mailto:r.mioz@pucp.edu.pe) for collaborations or inquiries about my work.
 
 ## Latest News  
 
