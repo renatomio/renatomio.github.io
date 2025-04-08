@@ -47,4 +47,4 @@ Feel free to explore my [Publications](../publications/) and [Projects](../proje
 - Presented my **[paper](https://ieeexplore.ieee.org/document/10162114)** on supernumerary robotic fingers for assistance at the **[IEEE BioSmart '23](https://www.biosmart-conference.org/)**.  
 - Gave an oral presentation at the **[2023 Summer School on Neurorehabilitation](https://2023.summerschoolneurorehabilitation.org/)** on motor unit decomposition for individual finger movements ([link to slides](https://drive.google.com/file/d/1-HyJaLUFHGsnG2T6gvZWTOqyVgjK2bR5/view?usp=drive_link), short paper coming in Springer).  
 
-> More updates are available on my [News page](#).
+> More updates are available on my [News page](../news/).
