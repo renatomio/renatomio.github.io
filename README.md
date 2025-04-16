@@ -9,52 +9,28 @@ permalink: /
 
 ---
 
-## About Me
+I am a **doctoral researcher** at the **[Chair of Digital Health with a Focus on Data Science](https://www.digital-health.uni-bayreuth.de/en/index.html)** from the University of Bayreuth (Germany) and a member of the **[Brain and Behaviour Laboratory](https://faisallab.org/)** at Imperial College London (UK). 
 
-I am a PhD Student at the Chair of Digital Health (Bayreuth, Germany) and the Brain and Behaviour Laboratory (London, UK).  
+My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyse electromyography (EMG) recordings. By decoding muscle-related signals even at the individual neuron level, my goal is to expand the human output bandwith and improve control over EMG-based human-machine interfaces. 
 
-- **Co-founder**: [LAT Bionics](#) (a company based in Peru dedicated to low-cost customised hand prostheses).  
-- **Chevening Alumnus**: Class of 2018.  
-- **Email**: [r.mioz@pucp.edu.pe](mailto:r.mioz@pucp.edu.pe)  
+<p align="center">
+  <img src="/images/about/fig_abstract.png" width="550">
+</p>
+
+
+My past projects have explored various aspects of **human augmentation and rehabilitation technology**, including:  
+- Studying how people learn to control an **additional robotic finger** while playing the piano.  
+- Developing both **myoelectric** and **body-powered hand prostheses** to improve accessibility in prosthetic solutions.  
+- Designing **supernumerary robotic fingers** to enhance grasping capabilities.  
+
+<!---
+Through my work, I aim to bridge the gap between **neuroscience, engineering, and assistive technology**, pushing the boundaries of what is possible in human augmentation.
+--->
+Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and am currently a leader of the **[Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html)**, a space for the open exchange of ideas and experiences in the hands-on use of **Artificial Intelligence and Machine Learning** with a focus on the practical implementation of algorithms through group projects.
+
+I am also a **co-founder** of **[LAT Bionics](https://www.instagram.com/latbionics/)**, a company based in Peru committed to designing and fitting **low-cost, customised hand prostheses** for individuals with limb differences. You can learn more about our mission watching our [TED talk](https://www.ted.com/talks/enzo_romero_the_affordable_3d_printed_bionics_of_the_future).
+
+Feel free to explore my [website](https://renatomio.github.io/) or [contact me](mailto:r.mioz@pucp.edu.pe) for collaborations or inquiries about my work.
 
 ### Connect with me:  
-[LinkedIn](#) | [GitHub](#) | [Twitter](#) | [Facebook](#) | [ResearchGate](#)
-
----
-
-## My Research Focus  
-I am a doctoral researcher at the **Chair of Digital Health with a Focus in Data Science (University of Bayreuth, Germany)** and a member of the **Brain and Behaviour Laboratory (Imperial College London, UK)**. My current research centers on **non-invasive neural interfaces for human augmentation**.
-
-### Previous Projects  
-- Studying the learning process for controlling an **additional robotic finger** to play the piano.  
-- Designing a **myoelectric hand prosthesis**.  
-- Developing control systems for a **lower-limb exoskeleton**.  
-> More details are available on my [Projects page](#).
-
----
-
-## Latest News  
-Here are some recent updates from my work:
-
-- **07/2024**: Completed the certification for the NeuroAI course by the Neuromatch Academy. Excited to apply neuro-inspired AI and ML concepts!
-- **07/2024**: Presented a poster at the HybridNeuro 2024 meeting in Maribor, Slovenia.  
-- **04/2024**: Presented a poster at the Neural Control of Movement (NCM) meeting in Dubrovnik, Croatia.  
-- **12/2023**: Presented a poster at the Neurophysiological Bases of Human Movement meeting at King's College London, UK.  
-- **12/2023**: Featured by Zeit, SAT1, and Süddeutsche Zeitung for our "live-in-lab," an apartment equipped with sensors for real-world human behavior studies.  
-- **11/2023**: Attended the **Augmentation Day Workshop** at Imperial College London, featuring expert talks and live demos of the MUVE system.  
-- **09/2023**: Featured by Andina News and El Peruano for our patent on finger covers for hand prostheses, awarded at KIWIE 2023 (Korea).  
-- **07/2023**: Our paper on human augmentation was featured as Editor’s Choice in **Nature Scientific Reports**.  
-- **06/2023**:  
-  - Attended the **10th BCI meeting in Brussels**.  
-  - Presented virtually at the **IEEE BioSmart '23** on supernumerary robotic fingers for assistance ([link to paper](#)).  
-  - Gave an oral presentation at the **2023 Summer School on Neurorehabilitation** on motor unit decomposition for individual finger movements ([link to slides](#), short paper coming in Springer).  
-- **02/2023**:  
-  - Presented a poster at the Bayreuth Lab for Digital Sciences (BayLDS) Day.  
-  - Participated in a three-day science retreat at **Kloster Speinshart**.
-
-> More updates are available on my [News page](#).
-
----
-
-**Thank you for visiting my website!**  
-Feel free to explore more about my research, publications, and projects.
+[LinkedIn](https://www.linkedin.com/in/renatomio/) | [GitHub](https://github.com/RenatoMio) | [ResearchGate](https://www.researchgate.net/profile/Renato-Mio)
