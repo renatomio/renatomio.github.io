@@ -10,7 +10,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a **doctoral researcher** at the **[Chair of Digital Health with a Focus on Data Science](https://www.digital-health.uni-bayreuth.de/en/index.html)** from the University of Bayreuth (Germany) and a member of the **[Brain and Behaviour Laboratory](https://faisallab.org/)** at Imperial College London (UK). 
+I am a **doctoral researcher** at the **[Chair of Digital Health with a Focus on Data Science](https://www.digital-health.uni-bayreuth.de/en/index.html)** from the University of Bayreuth (Germany) and the **[Brain and Behaviour Laboratory](https://faisallab.org/)** at Imperial College London (UK). 
 
 My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyse electromyography (EMG) recordings. By decoding muscle-related signals even at the individual neuron level, my goal is to expand the human output bandwith and improve control over EMG-based human-machine interfaces. 
 
