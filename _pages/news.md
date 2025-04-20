@@ -75,7 +75,15 @@ class: justify-text
   <img src="/images/news/2023/12/NPBHM2023.jpg" width="210">
 </p>
 
-**12/24** Our lab was featured by **[Zeit](https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten)**, **[SAT1](https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f)**, **[Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170)**, and **[idw](https://nachrichten.idw-online.de/2023/12/04/university-of-bayreuth-opens-kulmbach-live-in-lab-for-holistic-research-on-digital-health)** regarding our “live-in-lab,” an apartment equipped with sensors for real-world human behavior studies. More information in this [press release](https://www.uni-bayreuth.de/press-releases/AI-wearables-neurological-diseases).
+**12/23** Our lab was featured by **[Zeit](https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten)**, **[SAT1](https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f)**, **[Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170)**, and **[idw](https://nachrichten.idw-online.de/2023/12/04/university-of-bayreuth-opens-kulmbach-live-in-lab-for-holistic-research-on-digital-health)** regarding our “live-in-lab,” an apartment equipped with sensors for real-world human behavior studies. More information in this [press release](https://www.uni-bayreuth.de/press-releases/AI-wearables-neurological-diseases).
+
+<p align="center">
+  <img src="/images/news/2023/12/qlila.webp" width="210">
+  <figcaption style="font-size: 0.8em;">
+    Doktorand Renato Mio räumt ein Bett auf, während er Bewegungssensoren trägt. Foto: Daniel Vogl. Source:
+    <a href="https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170" target="_blank">Süddeutsche Zeitung</a>.
+  </figcaption>
+</p>
 
 **11/2023** Attended the **Augmentation Day** workshop at Imperial College London, featuring expert talks and live demos of the **[MUVE system](https://www.imperial.ac.uk/human-robotics/dr-octopus-/)**. Controlling extra arms was a surreal experience.
 
