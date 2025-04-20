@@ -79,7 +79,7 @@ class: justify-text
 
 <figure style="text-align: center; max-width: 300px; margin: auto;">
   <img src="/images/news/2023/12/qlila.webp" width="100%">
-  <figcaption style="font-size: 0.8em; margin-top: 0.4em;">
+  <figcaption style="font-size: 0.7em; margin-top: 0em;">
     Doktorand Renato Mio räumt ein Bett auf, während er Bewegungssensoren trägt. Foto: Daniel Vogl. Source:
     <a href="https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170" target="_blank">Süddeutsche Zeitung</a>.
   </figcaption>
@@ -87,9 +87,9 @@ class: justify-text
 
 **11/2023** Attended the **Augmentation Day** workshop at Imperial College London, featuring expert talks and live demos of the **[MUVE system](https://www.imperial.ac.uk/human-robotics/dr-octopus-/)**. Controlling extra arms was a surreal experience.
 
-<figure style="text-align: center;">
-  <img src="/images/news/2023/11/augmentationDay.jpg" alt="Description" width="210">
-</figure>
+<p align="center">
+  <img src="/images/news/2023/11/augmentationDay.jpg" width="210">
+</p>
 
 **09/2023** **Featured** by **[Andina News](https://andina.pe/agencia/noticia-invento-peruano-para-recubrir-protesis-mano-fue-premiado-corea-del-sur-954860.aspx)** and **[El Peruano](https://www.elperuano.pe/noticia/223247-invento-peruano-es-premiado-en-corea)** regarding our patent on finger covers for hand prostheses, recognized at an Inventions Contest in Korea (KIWIE 2023).
 
