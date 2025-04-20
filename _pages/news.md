@@ -77,8 +77,8 @@ class: justify-text
 
 **12/23** Our lab was featured by **[Zeit](https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten)**, **[SAT1](https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f)**, **[Süddeutsche Zeitung](https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170)**, and **[idw](https://nachrichten.idw-online.de/2023/12/04/university-of-bayreuth-opens-kulmbach-live-in-lab-for-holistic-research-on-digital-health)** regarding our “live-in-lab,” an apartment equipped with sensors for real-world human behavior studies. More information in this [press release](https://www.uni-bayreuth.de/press-releases/AI-wearables-neurological-diseases).
 
-<figure style="text-align: center; max-width: 210px; margin: auto;">
-  <img src="/images/news/2023/12/qlila.webp" width="300">
+<figure style="text-align: center; max-width: 300px; margin: auto;">
+  <img src="/images/news/2023/12/qlila.webp" width="100%">
   <figcaption style="font-size: 0.8em; margin-top: 0.4em;">
     Doktorand Renato Mio räumt ein Bett auf, während er Bewegungssensoren trägt. Foto: Daniel Vogl. Source:
     <a href="https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170" target="_blank">Süddeutsche Zeitung</a>.
@@ -86,6 +86,10 @@ class: justify-text
 </figure>
 
 **11/2023** Attended the **Augmentation Day** workshop at Imperial College London, featuring expert talks and live demos of the **[MUVE system](https://www.imperial.ac.uk/human-robotics/dr-octopus-/)**. Controlling extra arms was a surreal experience.
+
+<figure style="text-align: center;">
+  <img src="/images/news/2023/11/augmentationDay.jpg" alt="Description" width="210">
+</figure>
 
 **09/2023** **Featured** by **[Andina News](https://andina.pe/agencia/noticia-invento-peruano-para-recubrir-protesis-mano-fue-premiado-corea-del-sur-954860.aspx)** and **[El Peruano](https://www.elperuano.pe/noticia/223247-invento-peruano-es-premiado-en-corea)** regarding our patent on finger covers for hand prostheses, recognized at an Inventions Contest in Korea (KIWIE 2023).
 
