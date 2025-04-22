@@ -1,14 +1,15 @@
 /* Apply justification to all pages with class "justify-text" */
 .justify-text {
     text-align: justify;
+    max-width: 100%;
 }
 
 /* Custom style for publications page */
 .wide-justify .archive__item {
     max-width: 100%;
     text-align: justify;
-  }
-  
+}
+
 .wide-justify .archive {
     max-width: 100%;
     padding-right: 2rem;
