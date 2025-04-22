@@ -24,9 +24,6 @@ My past projects have explored various aspects of **human augmentation and rehab
 - Developing both **myoelectric** and **body-powered hand prostheses** to improve accessibility in prosthetic solutions.  
 - Designing **supernumerary robotic fingers** to enhance grasping capabilities.  
 
-<!---
-Through my work, I aim to bridge the gap between **neuroscience, engineering, and assistive technology**, pushing the boundaries of what is possible in human augmentation.
---->
 Beyond academia, I am passionate about fostering collaboration and knowledge exchange. I co-founded and am currently a leader of the **[Bayreuth AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html)**, a space for the open exchange of ideas and experiences in the hands-on use of **Artificial Intelligence and Machine Learning** with a focus on the practical implementation of algorithms through group projects.
 
 I am also a **co-founder** of **[LAT Bionics](https://www.instagram.com/latbionics/)**, a company based in Peru committed to designing and fitting **low-cost, customised hand prostheses** for individuals with limb differences. You can learn more about our mission watching our [TED talk](https://www.ted.com/talks/enzo_romero_the_affordable_3d_printed_bionics_of_the_future).
