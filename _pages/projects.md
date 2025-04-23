@@ -51,14 +51,14 @@ class: justify-text
 *Description:* This project explores the use of non-invasive neural signals to control human augmentation devices. High-density surface electromyography (HD EMG) is used to decompose individual motoneuron signals, adding controllable dimensions for augmentation without disrupting natural motor control.  
 *Keywords:* Human-Machine Interfacing, HD EMG, Motor Unit Decomposition, Reinforcement Learning, Matlab, Python  
 **Related papers:** 
-- [Motor unit decomposition over intrinsic hand muscles](https://doi.org/10.1007/978-3-031-85000-4_25)
-- [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00860-8)
+- [Motor unit decomposition over intrinsic hand muscles](https://link.springer.com/chapter/10.1007/978-3-031-85000-4_25)
+- [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
 
-## MSc Project (2019)  
+## MSc Project (2019)
 **Prediction of Human Ability for Supernumerary Control based on Individual Motor Skills**  
 *Description:* Studied how motor skill proficiency influences the ability to control a robotic finger while playing the piano, using motor tests and statistical learning.  
 *Keywords:* Human Augmentation, Motor Skills, Supernumerary Robotics, C#, Data Analysis  
-**Related paper:** [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00860-8)
+**Related paper:** [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
 
 ## A Body-Powered Supernumerary Robotic Finger
 *Description:* The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanisms.  
@@ -76,17 +76,19 @@ class: justify-text
 ## Development of a Transhumeral Arm Prosthesis with Haptic Feedback (2021–2022)  
 *Description:* A transhumeral arm prosthesis controlled via EEG, EMG, and motion sensing, featuring haptic feedback for real-time interaction.  
 *Keywords:* Arm Prosthesis, BCI, EMG, EEG, Haptic Feedback, 3D Printing  
-**Related paper:** [Mechanical testing methods for body-powered upper-limb prostheses: A review](https://ieeexplore.ieee.org/document/8624567)
+**Related paper:** [Mechanical testing methods for body-powered upper-limb prostheses: A review](https://ieeexplore.ieee.org/document/8567479/)
 
 ## Low-Cost Prosthetic Tool for Handlebar-Driven Vehicles 
 *Description:* Design of a low-cost upper-limb prosthesis optimised for riding bicycles and motorcycles.  
 *Keywords:* Prosthetics, Mobility, Transportation  
 **Related paper:** [BioRob 2024](https://ieeexplore.ieee.org/document/10719816)
 
+<!---
 ## Optimization of Polymer Utilisation for 3D-Printed Hand Prostheses (2018–2019)  
 *Description:* Characterisation and modelling of 3D-printed materials to improve the strength and performance of low-cost prosthetic hands.  
 *Keywords:* Additive Manufacturing, Prosthetics, Mechanical Testing, Simulation  
-**Related paper:** [A parametric 3D-printed body-powered hand prosthesis](https://ieeexplore.ieee.org/document/8624566)
+**Related paper:** [A parametric 3D-printed body-powered hand prosthesis](https://ieeexplore.ieee.org/document/8567461)
+--->
 
 ## [LAT Bionics](https://dandounamanoperu.org) (2017 – Present)  
 *Description:* A social startup providing low-cost, custom hand prostheses in Peru using 3D scanning, CAD, and 3D printing.  
