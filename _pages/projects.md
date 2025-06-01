@@ -73,7 +73,7 @@ class: justify-text
 *Keywords:* Assistive Robotics, Supernumerary Limbs, Grasping, C#, Arduino  
 
 **Related paper:** [IEEE BioSMART 2023](https://ieeexplore.ieee.org/document/10162114)
-
+---
 # Upper-limb prostheses
 
 ## Development of a Transhumeral Arm Prosthesis with Haptic Feedback (2021–2022)  
@@ -106,7 +106,7 @@ class: justify-text
 *Keywords:* Prosthetics, Robotics, Haptics, EMG, 3D Printing  
 
 **Related paper:** [Powered 3D-printed prosthetic hand for transmetacarpal amputees](https://ieeexplore.ieee.org/document/7942737)
-
+---
 # Rehabilitation robotics projects
 
 ## Soft Robotic Device for Muscle Rehabilitation  
