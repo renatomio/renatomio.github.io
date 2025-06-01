@@ -74,7 +74,6 @@ class: justify-text
 
 **Related paper:** [IEEE BioSMART 2023](https://ieeexplore.ieee.org/document/10162114)
 
----
 
 # Upper-limb prostheses
 
@@ -109,7 +108,6 @@ class: justify-text
 
 **Related paper:** [Powered 3D-printed prosthetic hand for transmetacarpal amputees](https://ieeexplore.ieee.org/document/7942737)
 
----
 
 # Rehabilitation robotics projects
 
