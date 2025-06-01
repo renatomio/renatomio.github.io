@@ -56,8 +56,8 @@ class: justify-text
 
 ## MSc Project (2019)
 **Prediction of Human Ability for Supernumerary Control based on Individual Motor Skills**  
-*Description:* Studied how motor skill proficiency influences the ability to control a robotic finger while playing the piano, using motor tests and statistical learning.  
-*Keywords:* Human Augmentation, Motor Skills, Supernumerary Robotics, C#, Data Analysis  
+*Description:* This project studied how motor skill proficiency influences the ability to control a supernumerary robotic finger while playing the piano. To assess this, we ran a battery of motor control experiments designed to measure hand dexterity, foot dexterity, and piano playing skills with and without the extra finger.  
+*Keywords:* Human Augmentation, Motor Skills, Supernumerary Robotics
 **Related paper:** [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
 
 ## A Body-Powered Supernumerary Robotic Finger
@@ -102,11 +102,6 @@ class: justify-text
 
 # Rehabilitation robotics projects
 
-## Lower Limb Exoskeleton for Gait Rehabilitation (2015–2016)  
-*Description:* Development of a robotic exoskeleton for gait training and rehabilitation. Included motion capture, torque control, and gait pattern simulation.  
-*Keywords:* Exoskeletons, Gait Therapy, Robotics, MATLAB, CAN communication
-**Related paper:** [Lower limb exoskeleton for gait and stair climbing therapies](https://link.springer.com/chapter/10.1007/978-3-030-00365-4_24)
-
 ## Soft Robotic Device for Muscle Rehabilitation  
 *Description:* Design, mathematical modelling, simulation and experimental validations of a soft robotic cuff-like device for enhancing blood flow and aiding muscle rehabilitation.  
 *Keywords:* Soft Robotics, Rehabilitation, Muscle Stimulation  
@@ -114,4 +109,9 @@ class: justify-text
 - [EMBC 2021 – Soft Robotic Device](https://ieeexplore.ieee.org/document/9629855)
 - [Mechanical Characterization – EMBC 2024](https://ieeexplore.ieee.org/document/10782663)  
 - [Computational Analysis – EMBC 2024](https://ieeexplore.ieee.org/document/10782886)
+
+## Lower Limb Exoskeleton for Gait Rehabilitation (2015–2016)  
+*Description:* Development of a robotic exoskeleton for gait training and rehabilitation. Included motion capture, torque control, and gait pattern simulation.  
+*Keywords:* Exoskeletons, Gait Therapy, Robotics, MATLAB, CAN communication
+**Related paper:** [Lower limb exoskeleton for gait and stair climbing therapies](https://link.springer.com/chapter/10.1007/978-3-030-00365-4_24)
 
