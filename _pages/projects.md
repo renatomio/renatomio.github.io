@@ -50,6 +50,7 @@ class: justify-text
 **Motor learning-based control of peripheral nerves for supernumerary degrees of freedom (sDoFs)**  
 *Description:* This project explores the use of non-invasive neural signals to control human augmentation devices. High-density surface electromyography (HD EMG) is used to decompose individual motoneuron signals, adding controllable dimensions for augmentation without disrupting natural motor control.  
 *Keywords:* Human-Machine Interfacing, HD EMG, Motor Unit Decomposition, Reinforcement Learning, Matlab, Python  
+
 **Related papers:** 
 - [Motor unit decomposition over intrinsic hand muscles](https://link.springer.com/chapter/10.1007/978-3-031-85000-4_25)
 - [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
@@ -58,17 +59,19 @@ class: justify-text
 **Prediction of Human Ability for Supernumerary Control based on Individual Motor Skills**  
 *Description:* This project studied how motor skill proficiency influences the ability to control a supernumerary robotic finger while playing the piano. To assess this, we ran a battery of motor control experiments designed to measure hand dexterity, foot dexterity, and piano playing skills with and without the extra finger.  
 *Keywords:* Human Augmentation, Motor Skills, Supernumerary Robotics
+
 **Related paper:** [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
 
 ## A Body-Powered Supernumerary Robotic Finger
 *Description:* The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanisms.  
 *Keywords:* Assistive Robotics, Supernumerary Limbs, Grasping, C#, Arduino  
 
-**Code repository:** [GitHub – bpSRF](https://github.com/renatomio/bpSRF)
+**Open repository:** [GitHub – bpSRF](https://github.com/renatomio/bpSRF)
 
 ## Supernumerary Robotic Fingers for Assistance in Cylindrical and Pinch Grasps (Aug 2022 – Present)
 *Description:* A wearable assistive device with two extra robotic fingers supporting power and precision grasps for users with motor impairments. Wrist-based control ensures intuitive operation.  
 *Keywords:* Assistive Robotics, Supernumerary Limbs, Grasping, C#, Arduino  
+
 **Related paper:** [IEEE BioSMART 2023](https://ieeexplore.ieee.org/document/10162114)
 
 # Upper-limb prostheses
@@ -76,11 +79,13 @@ class: justify-text
 ## Development of a Transhumeral Arm Prosthesis with Haptic Feedback (2021–2022)  
 *Description:* A transhumeral arm prosthesis controlled via EEG, EMG, and motion sensing, featuring haptic feedback for real-time interaction.  
 *Keywords:* Arm Prosthesis, BCI, EMG, EEG, Haptic Feedback, 3D Printing  
+
 **Related paper:** [Mechanical testing methods for body-powered upper-limb prostheses: A review](https://ieeexplore.ieee.org/document/8567479/)
 
 ## Low-Cost Prosthetic Tool for Handlebar-Driven Vehicles 
 *Description:* Design of a low-cost upper-limb prosthesis optimised for riding bicycles and motorcycles.  
 *Keywords:* Prosthetics, Mobility, Transportation  
+
 **Related paper:** [BioRob 2024](https://ieeexplore.ieee.org/document/10719816)
 
 <!---
@@ -90,14 +95,16 @@ class: justify-text
 **Related paper:** [A parametric 3D-printed body-powered hand prosthesis](https://ieeexplore.ieee.org/document/8567461)
 --->
 
-## [LAT Bionics](https://dandounamanoperu.org) (2017 – Present)  
+## [LAT Bionics](https://www.instagram.com/latbionics/) (2017 – Present)  
 *Description:* A social startup providing low-cost, custom hand prostheses in Peru using 3D scanning, CAD, and 3D printing.  
 *Keywords:* Hand Prostheses, Digital Fabrication, Social Impact  
+
 **Related media:** [TED Talk – LAT Bionics](https://www.ted.com/tedx)
 
 ## Myoelectric Upper-Limb Prosthesis with Force Control and Haptic Feedback (2016–2017)  
 *Description:* Designed and tested a myoelectric prosthetic hand capable of fine force control and haptic feedback.  
 *Keywords:* Prosthetics, Robotics, Haptics, EMG, 3D Printing  
+
 **Related paper:** [Powered 3D-printed prosthetic hand for transmetacarpal amputees](https://ieeexplore.ieee.org/document/7942737)
 
 # Rehabilitation robotics projects
@@ -105,6 +112,7 @@ class: justify-text
 ## Soft Robotic Device for Muscle Rehabilitation  
 *Description:* Design, mathematical modelling, simulation and experimental validations of a soft robotic cuff-like device for enhancing blood flow and aiding muscle rehabilitation.  
 *Keywords:* Soft Robotics, Rehabilitation, Muscle Stimulation  
+
 **Related papers:** 
 - [EMBC 2021 – Soft Robotic Device](https://ieeexplore.ieee.org/document/9629855)
 - [Mechanical Characterization – EMBC 2024](https://ieeexplore.ieee.org/document/10782663)  
@@ -113,5 +121,6 @@ class: justify-text
 ## Lower Limb Exoskeleton for Gait Rehabilitation (2015–2016)  
 *Description:* Development of a robotic exoskeleton for gait training and rehabilitation. Included motion capture, torque control, and gait pattern simulation.  
 *Keywords:* Exoskeletons, Gait Therapy, Robotics, MATLAB, CAN communication
+
 **Related paper:** [Lower limb exoskeleton for gait and stair climbing therapies](https://link.springer.com/chapter/10.1007/978-3-030-00365-4_24)
 
