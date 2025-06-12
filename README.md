@@ -1,9 +1,3 @@
----
-layout: home
-title: About Me
-permalink: /
----
-
 # Renato Mio  
 **Doctoral Researcher in Neurotechnology | Biomedical & Mechatronics Engineer**
 
