@@ -9,7 +9,7 @@ class: justify-text
 
 # News Archive
 
-**05/2025** I participated in the [BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2025)! This was also part of [The BCI & Neurotechnology Spring School 2025](https://www.gtec.at/bci-neurotech-spring-school-2025/). In around 24h, my teammates and I analysed EEG motor imagery tasks data from stroke patients. We used Riemannian manifolds, neural networks, and feature importance analyses to improve task classification accuracy and draw phyosologically-meaningfuls insiguts. Our code and slides are available in [this open repository](https://github.com/renatomio/br41n_io_hackaton-stroke-rehab/).
+**05/2025** I **participated** in the **[BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2025)**! This was also part of [The BCI & Neurotechnology Spring School 2025](https://www.gtec.at/bci-neurotech-spring-school-2025/). In around 24h, my teammates and I analysed EEG motor imagery tasks data from stroke patients. We used Riemannian manifolds, neural networks, and feature importance analyses to improve task classification accuracy and draw phyosologically-meaningfuls insiguts. Our code and slides are available in **[this open repository](https://github.com/renatomio/br41n_io_hackaton-stroke-rehab/)**.
 
 **03/2025** As part of my visit to Lima (Peru), I presented my work on **robotics and neural interfaces for human augmentation**. The talk is available [here](https://drive.google.com/file/d/1SAtT2kIoVoSqfjW59itUrFHPUzoJ6gan/view?usp=sharing) in Spanish.
 
