@@ -36,8 +36,8 @@ Feel free to explore my [Publications](../publications/) and [Projects](../proje
 
 ## Latest News
 
-**07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
-**07/2025** Delighted to **attend and present a [poster](https://drive.google.com/file/d/1CrMXZ4-wxnRZ3KWgHxansTHqdKWhmV_Q/view?usp=sharing)** at the [Summer School on Human Interfacing and augmentation](https://www.hybridneuro.feri.um.si/summerschools/summer_school_london.html)! This was a great opportunity to discuss the feasability of **motoneuron-level control interfaces**.
+- **07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
+- **07/2025** Delighted to **attend and present a [poster](https://drive.google.com/file/d/1CrMXZ4-wxnRZ3KWgHxansTHqdKWhmV_Q/view?usp=sharing)** at the [Summer School on Human Interfacing and augmentation](https://www.hybridneuro.feri.um.si/summerschools/summer_school_london.html)! This was a great opportunity to discuss the feasability of **motoneuron-level control interfaces**.
 - **05/2025** I **participated** in the **[BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2025)**! My teammates and I analysed EEG from stroke patients during hand motor imagery tasks using Riemannian manifolds, neural networks, and feature importance analyses. Check out our **[open repository](https://github.com/renatomio/br41n_io_hackaton-stroke-rehab/)**.
 - **02/2025**: Our **paper** on the [body-powered supernumerary robotic finger](https://github.com/renatomio/bpSRF) was accepted at [ICORR 2025](https://icorr-c.org/icorr_2025/), part of the [RehabWeek](https://rehabweek.org/) to be taking place this May in Chicago.
 - **11/2024**: Two **papers** published on the [experimental characterisation of a soft robotic device for mechanotherapy](https://ieeexplore.ieee.org/document/10782663) and the [computational analysis of its interaction with skin-muscle tissue](https://ieeexplore.ieee.org/document/10782886).
