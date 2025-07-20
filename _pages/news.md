@@ -9,6 +9,10 @@ class: justify-text
 
 # News Archive
 
+**07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
+
+**07/2025** Delighted to **attend and present a [poster](https://drive.google.com/file/d/1CrMXZ4-wxnRZ3KWgHxansTHqdKWhmV_Q/view?usp=sharing)** at the [Summer School on Human Interfacing and augmentation](https://www.hybridneuro.feri.um.si/summerschools/summer_school_london.html)! This was a great opportunity to discuss the feasability of **motoneuron-level control interfaces** and other emerging trends in the field.
+
 **05/2025** I **participated in the [BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2025)**! My teammates and I analysed **EEG** from stroke patients during **hand motor imagery** tasks using Riemannian manifolds, neural networks, and feature importance analyses. Our goal was to improve task classification accuracy and draw phyosologically-meaningfuls insights. Our code and slides are available in **[this open repository](https://github.com/renatomio/br41n_io_hackaton-stroke-rehab/)**.
 
 **03/2025** As part of my visit to Lima (Peru), I presented my work on **robotics and neural interfaces for human augmentation**. The talk is available [here](https://drive.google.com/file/d/1SAtT2kIoVoSqfjW59itUrFHPUzoJ6gan/view?usp=sharing) in Spanish.
