@@ -36,6 +36,7 @@ Feel free to explore my [Publications](../publications/) and [Projects](../proje
 
 ## Latest News
 
+**08/2025** Two **papers accepted** to **[IEEE NER 2025](https://neuro.embs.org/2025/)** and an **oral presentation (Nanosymposium)** at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025/)**! I will present our work in **motor unit spike trains-to-force ML pipeline** and our work in **motor unit tracking in constrained and unconstrained finger force tasks**.
 - **07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
 - **07/2025** Delighted to **attend and present a [poster](https://drive.google.com/file/d/1CrMXZ4-wxnRZ3KWgHxansTHqdKWhmV_Q/view?usp=sharing)** at the [Summer School on Human Interfacing and augmentation](https://www.hybridneuro.feri.um.si/summerschools/summer_school_london.html)! This was a great opportunity to discuss the feasability of **motoneuron-level control interfaces**.
 - **05/2025** I **participated** in the **[BR41N.IO Hackathon](https://www.br41n.io/Spring-School-2025)**! My teammates and I analysed EEG from stroke patients during hand motor imagery tasks using Riemannian manifolds, neural networks, and feature importance analyses. Check out our **[open repository](https://github.com/renatomio/br41n_io_hackaton-stroke-rehab/)**.
