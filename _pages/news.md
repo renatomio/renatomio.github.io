@@ -9,6 +9,8 @@ class: justify-text
 
 # News Archive
 
+**08/2025** Two **papers accepted** to **[IEEE NER 2025](https://neuro.embs.org/2025/)** and an **oral presentation (Nanosymposium)** at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025/)**! I will be in San Diego this November to present our work in **motor unit spike trains-to-force ML pipeline** that works across different subjects and tasks, and our work in **motor unit tracking in constrained and unconstrained finger force tasks**.
+
 **07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
 
 **07/2025** Delighted to **attend and present a [poster](https://drive.google.com/file/d/1CrMXZ4-wxnRZ3KWgHxansTHqdKWhmV_Q/view?usp=sharing)** at the [Summer School on Human Interfacing and augmentation](https://www.hybridneuro.feri.um.si/summerschools/summer_school_london.html)! This was a great opportunity to discuss the feasability of **motoneuron-level control interfaces** and other emerging trends in the field.
