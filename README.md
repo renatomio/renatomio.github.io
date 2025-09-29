@@ -8,7 +8,7 @@ I am a **doctoral researcher** at the **[Chair of Digital Health with a Focus on
 My research focuses on **non-invasive neural interfaces for human augmentation**, combining **machine learning** and **signal processing** techniques to analyse electromyography (EMG) recordings. By decoding muscle-related signals even at the individual neuron level, my goal is to expand the human output bandwith and improve control over EMG-based human-machine interfaces. 
 
 <p align="center">
-  <img src="/images/about/fig_abstract.png" width="550">
+  <img src="/images/about/fig_abstract.png" width="650">
 </p>
 
 
