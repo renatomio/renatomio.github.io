@@ -48,8 +48,8 @@ class: justify-text
 
 ## PhD Project (July 2022 – Present)
 **Motor learning-based control of peripheral nerves for supernumerary degrees of freedom (sDoFs)**  
-*Description:* This project explores the use of non-invasive neural signals to control human augmentation devices. High-density surface electromyography (HD EMG) is used to decompose individual motoneuron signals, adding controllable dimensions for augmentation without disrupting natural motor control.  
-*Keywords:* Human-Machine Interfacing, HD EMG, Motor Unit Decomposition, Reinforcement Learning, Matlab, Python  
+*Description:* This project explores the use of non-invasive neural interfaces to control human augmentation devices. High-density surface electromyography (HDsEMG) is decomposed into individual motoneuron signals, adding dimensions that can potentially be controlled for augmentation devices without disrupting natural motor control.  
+*Keywords:* Human-Machine Interfacing, HD-EMG, Motor Unit Decomposition, Time-Series Regression  
 
 **Related papers:** 
 - [Motor unit decomposition over intrinsic hand muscles](https://link.springer.com/chapter/10.1007/978-3-031-85000-4_25)
@@ -60,12 +60,13 @@ class: justify-text
 *Description:* This project studied how motor skill proficiency influences the ability to control a supernumerary robotic finger while playing the piano. To assess this, we ran a battery of motor control experiments designed to measure hand dexterity, foot dexterity, and piano playing skills with and without the extra finger.  
 *Keywords:* Human Augmentation, Motor Skills, Supernumerary Robotics
 
-**Related paper:** [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
+**Related paper:** [Scientific Reports](https://www.nature.com/articles/s41598-021-00376-6)
 
 ## A Body-Powered Supernumerary Robotic Finger
 *Description:* The bpSRF is an lightweight device designed to enhance users' grasping capabilities by controlling an additional robotic finger using wrist movements. Unlike conventional SRFs, the bpSRF eliminates the need for electronic components and relies solely on body-powered mechanisms.  
 *Keywords:* Assistive Robotics, Supernumerary Limbs, Grasping, C#, Arduino  
 
+**Related paper:** [ICORR 2025](https://ieeexplore.ieee.org/document/11063063)
 **Open repository:** [GitHub – bpSRF](https://github.com/renatomio/bpSRF)
 
 ## Supernumerary Robotic Fingers for Assistance in Cylindrical and Pinch Grasps (Aug 2022 – Present)
