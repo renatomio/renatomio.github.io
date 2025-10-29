@@ -13,7 +13,7 @@ class: justify-text
 
 **10/2025** **Featured** by **[Cybathlon](https://cybathlon.com/en)** on our work designing the [first-ever body-powered wrist-driven supernumerary robotic finger](https://ieeexplore.ieee.org/document/11063063). Check the post **[here](https://www.linkedin.com/posts/cybathlon_assistivetechnology-disabilityinclusion-prosthetics-activity-7384114400086994945-hBN4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAy978kBv4-_Wn8aDzgxnzacnoOfak_i7dE)**.
 
-**08/2025** Two **papers accepted** to **[IEEE NER 2025](https://neuro.embs.org/2025/)** and an **oral presentation (Nanosymposium)** at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025/)**! I will be in San Diego this November to present our work in **motor unit spike trains-to-force ML pipeline** that works across different subjects and tasks, and our work in **motor unit tracking in constrained and unconstrained finger force tasks**.
+**08/2025** Two **papers accepted** to **[IEEE NER 2025](https://neuro.embs.org/2025/)** and an **oral presentation (Nanosymposium)** at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025/)**! I will be in San Diego this November to present our work in **motoneuron spike trains-to-force machine learning pipeline** that works across different subjects and tasks, and our work in **motor unit tracking** in constrained and unconstrained finger force tasks.
 
 **07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
 
