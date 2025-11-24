@@ -13,7 +13,7 @@ class: justify-text
 
 <p align="center">
   <img src="/images/news/2025/11/NER.png" width="400">
-  <img src="/images/news/2025/11/SfN.png" width="315">
+  <img src="/images/news/2025/11/SfN.png" width="310">
 </p>
 
 **10/2025**  Presented a **[poster](https://drive.google.com/file/d/1qRCpezd2wpfcwm_GA6likP8EeR3GBur-/view?usp=drive_link)** at the [Bavarian Conference on AI in Medicine](https://events.hifis.net/event/2048/overview) on AI models to predict exerted force from motoneuron activity across upper- and lower-limb muscles.
