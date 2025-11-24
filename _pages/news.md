@@ -12,8 +12,8 @@ class: justify-text
 - **11/2025** Two conferences and two **oral presentations**. San Diego was amazing! I come back with new connections and new ideas/inspiration for my projects.
 
 <p align="center">
-  <img src="/images/news/2025/11/NER.png" width="390">
-  <img src="/images/news/2025/11/SfN.png" width="320">
+  <img src="/images/news/2025/11/NER.png" width="400">
+  <img src="/images/news/2025/11/SfN.png" width="315">
 </p>
 
 **10/2025**  Presented a **[poster](https://drive.google.com/file/d/1qRCpezd2wpfcwm_GA6likP8EeR3GBur-/view?usp=drive_link)** at the [Bavarian Conference on AI in Medicine](https://events.hifis.net/event/2048/overview) on AI models to predict exerted force from motoneuron activity across upper- and lower-limb muscles.
