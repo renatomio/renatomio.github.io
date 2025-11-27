@@ -51,7 +51,9 @@ class: justify-text
 *Description:* This project explores the use of non-invasive neural interfaces to control human augmentation devices. High-density surface electromyography (HDsEMG) is decomposed into individual motoneuron signals, adding dimensions that can potentially be controlled for augmentation devices without disrupting natural motor control.  
 *Keywords:* Human-Machine Interfacing, HD-EMG, Motor Unit Decomposition, Time-Series Regression  
 
-**Related papers:** 
+**Related papers:**
+- [Finger force prediction from motor unit spike trains](https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0001194.pdf)
+- [Motor unit tracking in forearm muscles across force paradigms](https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0000634.pdf)
 - [Motor unit decomposition over intrinsic hand muscles](https://link.springer.com/chapter/10.1007/978-3-031-85000-4_25)
 - [Playing the piano with a robotic third thumb](https://www.nature.com/articles/s41598-021-00376-6)
 
