@@ -18,5 +18,11 @@
 
 /* Right alignment for author bio */
 .author__bio {
-  text-align: right !important;
+  text-align: left !important;
+}
+
+/* Additional formatting for employer block in sidebar*/
+.author__desktop {
+  text-indent: -1.2em;   /* pulls the first line left */
+  padding-left: 1.2em;   /* pushes rest of the lines right */
 }
