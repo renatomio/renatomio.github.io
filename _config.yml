@@ -24,9 +24,11 @@ author:
   avatar           : "profile.jpg"
   name             : "Renato Mio" # Your sidebar name
   pronouns         : # example: "she/her"  
-  bio              : "Researcher on neurotechnology and augmentation"
+  bio              : "Neurotechnology and Human Augmentation"
   location         : 
-  employer         :  Uni. Bayreuth & Imperial College London
+  employer         : |
+    University of Bayreuth
+    Imperial College London
   uri              : # URL
   email            : # email address 
 
