@@ -9,7 +9,7 @@ class: justify-text
 
 # News Archive
 
-- Thanks to the organisers of NER 2025, I had access to the recordings from the conference. [Click here to watch my **presentation**](https://drive.google.com/file/d/1s89xX49fDrbXjpA9xJdzFw9qAuGaPbnZ/view?usp=sharing) on using ML to decode force from motor neuron spike trains across subjects.
+- **12/2025** Thanks to the organisers of NER 2025, I had access to the recordings from the conference. [Click here to watch my **presentation**](https://drive.google.com/file/d/1s89xX49fDrbXjpA9xJdzFw9qAuGaPbnZ/view?usp=sharing) on using ML to decode force from motor neuron spike trains across subjects.
 
 - **11/2025** Two conferences and two **oral presentations**. San Diego was amazing! I come back with new connections and new ideas/inspiration for my projects.
 
