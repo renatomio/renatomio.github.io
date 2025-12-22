@@ -13,7 +13,7 @@ class: justify-text
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VNe9Ru_IvzY
 " target="_blank"><img src="http://img.youtube.com/vi/VNe9Ru_IvzY/0.jpg" 
-alt="NER 2025 presentation" width="240" height="180" border="10" /></a>
+alt="NER 2025 presentation" width="320" height="240" align="center" border="10" /></a>
 
 - **11/2025** Two conferences and two **oral presentations**. San Diego was amazing! I come back with new connections and new ideas/inspiration for my projects.
 
