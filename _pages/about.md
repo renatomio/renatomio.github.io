@@ -36,7 +36,7 @@ Feel free to explore my [Publications](../publications/) and [Projects](../proje
 
 ## Latest News
 
-- **11/2025** Two conferences and two **oral presentations**. San Diego was amazing! I come back with new connections and new ideas/inspiration for my projects. [Click here to watch my **presentation** at NER2025](https://youtu.be/VNe9Ru_IvzY) on using ML to decode force from motor neuron spike trains.
+- **11/2025** Two conferences and two **oral presentations**. San Diego was amazing! I come back with new connections and new ideas/inspiration for my projects. [Click here to watch my **presentation** at NER2025](https://youtu.be/VNe9Ru_IvzY){:target="_blank"} on using ML to decode force from motor neuron spike trains.
 - **08/2025** Two **papers accepted** to **[IEEE NER 2025](https://neuro.embs.org/2025/)** and an **oral presentation** at **[Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025/)**! I will present our work in **motoneuron spike trains-to-force machine learning pipeline** and our work in **motorneuron tracking** in constrained and unconstrained finger force tasks.
 - **07/2025** Our **ICORR paper** on the first-ever **body-powered extra robotic finger** is live! Check it out **[here](https://ieeexplore.ieee.org/document/11063063)**.
 - **07/2025** Delighted to **attend and present a [poster](https://drive.google.com/file/d/1CrMXZ4-wxnRZ3KWgHxansTHqdKWhmV_Q/view?usp=sharing)** at the [Summer School on Human Interfacing and augmentation](https://www.hybridneuro.feri.um.si/summerschools/summer_school_london.html)! This was a great opportunity to discuss the feasability of **motoneuron-level control interfaces**.
