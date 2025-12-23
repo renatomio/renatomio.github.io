@@ -11,9 +11,12 @@ class: justify-text
 
 - **12/2025** Thanks to the organisers of NER 2025, I had access to the recordings from the conference. [Click here to watch my **presentation**](https://youtu.be/VNe9Ru_IvzY){:target="_blank"} on using ML to decode force from motor neuron spike trains across subjects.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VNe9Ru_IvzY
-" target="_blank"><img src="http://img.youtube.com/vi/VNe9Ru_IvzY/0.jpg" 
-alt="NER 2025 presentation" width="320" height="240" align="center" border="10" /></a>
+<p align="center">
+  <a href="http://www.youtube.com/watch?feature=player_embedded&v=VNe9Ru_IvzY" target="_blank">
+    <img src="http://img.youtube.com/vi/VNe9Ru_IvzY/0.jpg" 
+         alt="NER 2025 presentation" width="320" height="180" />
+  </a>
+</p>
 
 - **11/2025** Two conferences and two **oral presentations**. San Diego was amazing! I come back with new connections and new ideas/inspiration for my projects.
 
