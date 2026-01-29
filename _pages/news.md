@@ -9,6 +9,8 @@ class: justify-text
 
 # News Archive
 
+- **01/2026** Winners of the Ideenwettbewerb 2025/2026! _MetricMeals_, an applied AI project of the **[AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html)**￼ aimed at reducing food waste, won the Pitch Competition organised by the [Institute for Entrepreneurship](https://www.iei.uni-bayreuth.de/de/index.html). I’m very glad to have contributed on the ML architecture and technical side of the project, and truly proud of what we achieved together as a group. See the [LinkedIn post by the Institute](https://www.linkedin.com/posts/iei-uni-bayreuth_ieiabrunibayreuth-ieiabrbayreuth-riaabrbayreuth-activity-7417886242563997696-kbYt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAy978kBv4-_Wn8aDzgxnzacnoOfak_i7dE).
+
 - **12/2025** Thanks to the organisers of NER 2025, I had access to the recordings from the conference. [Click here to watch my **presentation**](https://youtu.be/VNe9Ru_IvzY){:target="_blank"} on using ML to decode force from motor neuron spike trains across subjects.
 
 <p align="center">
