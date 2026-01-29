@@ -27,7 +27,7 @@ class: justify-text
   <img src="/images/news/2025/11/SfN.png" width="310">
 </p>
 
-**10/2025**  Presented a **[poster](https://drive.google.com/file/d/1qRCpezd2wpfcwm_GA6likP8EeR3GBur-/view?usp=drive_link)** at the [Bavarian Conference on AI in Medicine](https://events.hifis.net/event/2048/overview) on AI models to predict exerted force from motoneuron activity across upper- and lower-limb muscles.
+**10/2025**  Presented a **[poster](https://drive.google.com/file/d/1Bf5zGzO_efQ2zlAygwavf4fBbF0I2lSK/view?usp=drive_link)** at the [Bavarian Conference on AI in Medicine](https://events.hifis.net/event/2048/overview) on AI models to predict exerted force from motoneuron activity across upper- and lower-limb muscles.
 
 **10/2025** **Featured** by **[Cybathlon](https://cybathlon.com/en)** on our work designing the [first-ever body-powered wrist-driven supernumerary robotic finger](https://ieeexplore.ieee.org/document/11063063). Check the post **[here](https://www.linkedin.com/posts/cybathlon_assistivetechnology-disabilityinclusion-prosthetics-activity-7384114400086994945-hBN4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAy978kBv4-_Wn8aDzgxnzacnoOfak_i7dE)**.
 
