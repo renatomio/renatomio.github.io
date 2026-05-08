@@ -9,6 +9,10 @@ class: justify-text
 
 # News Archive
 
+- **04/2026** Together with my PI, Prof. Aldo Faisal, we were awarded the **[AcrossEU Seed Funding](https://acrosseu.unicaen.fr/acrosseu-seed-funding/)** for a project on **neural interfacing for controlling a supernumerary robotic finger**. Looking forward to exploring new approaches in neurotech for human augmentation.
+
+- **04/2026** The **[Bayreuth AI Association e.V.](https://www.ai-association.uni-bayreuth.de/en/index.html)** is now officially a registered non-profit (_eingetragener Verein_)! I’m honoured to have been appointed **Vice President** and excited to continue building a community around **AI and machine learning in Bayreuth** through hands-on projects, skill-sharing sessions, and collaborations between students, academia, and industry.
+
 - **01/2026** Winners of the _Ideenwettbewerb 2025/2026_! **_MetricMeals_**, an **applied AI** project of the [AI Association](https://www.ai-association.uni-bayreuth.de/en/index.html) aimed at reducing food waste, won the Pitch Competition organised by the [Institute for Entrepreneurship](https://www.iei.uni-bayreuth.de/de/index.html). I’m very glad to have contributed on the ML architecture and technical side of the project, and truly proud of what we achieved together as a group. See the [LinkedIn post by the Institute](https://www.linkedin.com/posts/iei-uni-bayreuth_ieiabrunibayreuth-ieiabrbayreuth-riaabrbayreuth-activity-7417886242563997696-kbYt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAy978kBv4-_Wn8aDzgxnzacnoOfak_i7dE).
 
 - **12/2025** Thanks to the organisers of NER 2025, I had access to the recordings from the conference. [Click here to watch my **presentation**](https://youtu.be/VNe9Ru_IvzY){:target="_blank"} on using ML to decode force from motor neuron spike trains across subjects.
