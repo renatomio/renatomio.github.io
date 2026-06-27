@@ -9,6 +9,10 @@ class: justify-text
 
 # News Archive
 
+- **06/2026** Participated in the **[Cleveland NeuroDesign Entrepreneurs Workshop](https://www.clevelandneurodesign.com/)** in Munich, learning the **Biodesign** methodology for translating unmet clinical needs into viable neurotechnology ventures. An excellent opportunity to learn from and collaborate with clinicians, engineers, entrepreneurs, and investors.
+
+- **06/2026** Participated in the 4th Bio-inspired Deep Learning Workshop in Guntersblum. My team and I focused on bio-inspired neural coding, exploring oscillatory neural dynamics for adaptive phase encoding and evaluating the approach on a speech classification task using spiking neural networks. The workshop provided valuable interdisciplinary exchange across neuroscience, AI, physics, and engineering.
+
 - **04/2026** Together with my PI, Prof. Aldo Faisal, we were awarded the **[AcrossEU Seed Funding](https://acrosseu.unicaen.fr/acrosseu-seed-funding/)** for a project on **neural interfacing for controlling a supernumerary robotic finger**. Looking forward to exploring new approaches in neurotech for human augmentation.
 
 - **04/2026** The **[Bayreuth AI Association e.V.](https://www.ai-association.uni-bayreuth.de/en/index.html)** is now officially a registered non-profit (_eingetragener Verein_)! I’m honoured to have been appointed **Vice President** and excited to continue building a community around **AI and machine learning in Bayreuth** through hands-on projects, skill-sharing sessions, and collaborations between students, academia, and industry.
