@@ -1,0 +1,7 @@
+# Local development overrides — NOT used by GitHub Pages (it only reads _config.yml).
+# Serve with:
+#   bundle exec jekyll serve --livereload --config _config.yml,_config_dev.yml
+# Setting url/baseurl empty makes asset + link paths root-relative, so your local
+# edits show up at http://localhost:4000 instead of loading from the live site.
+url: ""
+baseurl: ""
