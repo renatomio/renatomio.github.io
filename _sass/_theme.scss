@@ -1,0 +1,189 @@
+/* ==========================================================================
+   THEME LAYER — Phase 1 redesign (palette, dark mode, polish)
+   Pure CSS custom properties + targeted overrides of the vendored theme.
+   Imported last in main.scss so it wins by source order.
+   ========================================================================== */
+
+:root {
+  --bg: #ffffff;
+  --surface: #ffffff;
+  --text: #1b242e;
+  --muted: #5c6b78;
+  --border: #e4e9ed;
+  --nav-link: #3a434d;
+  --accent: #274bb5;
+  --accent-soft: #e7edfa;
+  --code-bg: #f3f5f7;
+  --footer-bg: #ffffff;
+  --font-serif: "Newsreader", Georgia, serif;
+}
+
+[data-theme="dark"] {
+  --bg: #0e141a;
+  --surface: #161f29;
+  --text: #e8eef4;
+  --muted: #95a3b1;
+  --border: #26313c;
+  --nav-link: #c7d0d9;
+  --accent: #88a9f0;
+  --accent-soft: #1c2942;
+  --code-bg: #1b2530;
+  --footer-bg: #121922;
+}
+
+/* Base surfaces and text ----------------------------------------------------- */
+html { background-color: var(--bg); }
+body { background-color: var(--bg); color: var(--text); line-height: 1.65; }
+
+a { color: var(--accent); }
+
+h1, h2, h3, h4, h5, h6 { color: var(--text); }
+p, li, dt, dd, td, th { color: var(--text); }
+
+.page__meta, .page__date, .archive__item-excerpt, figcaption { color: var(--muted); }
+
+::selection { background: var(--accent-soft); }
+
+/* Masthead / top navigation -------------------------------------------------- */
+.masthead { background: var(--surface); border-bottom-color: var(--border); }
+.masthead__inner-wrap { position: relative; }
+.greedy-nav { background: var(--surface); }
+.greedy-nav a { color: var(--nav-link); }
+.greedy-nav a:hover { color: var(--accent); }
+.masthead__menu-item--lg a {
+  font-family: var(--font-serif);
+  font-size: 1.3em;
+  font-weight: 500;
+  color: var(--text);
+}
+.greedy-nav .hidden-links {
+  background: var(--surface);
+  border-color: var(--border);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
+}
+.greedy-nav .hidden-links:after { border-color: var(--surface) transparent; }
+.greedy-nav .hidden-links:before { border-color: var(--border) transparent; }
+.greedy-nav .hidden-links a:hover { background: var(--accent-soft); color: var(--accent); }
+
+/* Dark-mode toggle button ---------------------------------------------------- */
+.theme-toggle {
+  position: absolute;
+  right: 1em;
+  top: 50%;
+  transform: translateY(-50%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.2rem;
+  height: 2.2rem;
+  background: transparent;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--muted);
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  z-index: 30;
+  transition: all 0.2s ease-in-out;
+}
+.theme-toggle:hover { color: var(--accent); border-color: var(--accent); }
+@media (max-width: 600px) { .theme-toggle { right: 3.2em; } }
+
+/* Sidebar / author profile --------------------------------------------------- */
+.sidebar .author__name { font-family: var(--font-serif); font-weight: 500; }
+.author__avatar img { border-color: var(--border) !important; }
+
+/* On desktop the author links sit transparently in the sidebar (no box).
+   Only the collapsed mobile pop-up needs a surface + border. */
+@media (max-width: 924px) {
+  .author__urls { background: var(--surface); border-color: var(--border); }
+  .author__urls:after { border-color: var(--surface) transparent; }
+  .author__urls:before { border-color: var(--border) transparent; }
+}
+
+/* Content polish ------------------------------------------------------------- */
+.page__title { letter-spacing: -0.01em; }
+blockquote { border-left-color: var(--accent); color: var(--text); }
+hr { border-top-color: var(--border); }
+
+p > code, a > code, li > code, figcaption > code, td > code,
+pre {
+  background: var(--code-bg);
+  border-color: var(--border);
+  color: var(--text);
+}
+
+/* Publications / news list items */
+.archive__item-title { margin-top: 0.85em; }
+.archive__item-title a { color: var(--text); }
+.archive__item-title a:hover { color: var(--accent); }
+
+/* Footer --------------------------------------------------------------------- */
+.page__footer { background-color: var(--footer-bg); border-top-color: var(--border); color: var(--muted); }
+.page__footer a { color: var(--muted); }
+.page__footer a:hover { color: var(--accent); }
+.page__footer .fas, .page__footer .fab, .page__footer .far { color: var(--muted); }
+
+/* Publication cards (phase 2) ------------------------------------------------ */
+/* The list reserves space for a right sidebar that isn't there; reclaim it. */
+.list__item:has(.pub-card) { padding-right: 0; }
+
+.pub-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 15px 18px;
+  margin-bottom: 14px;
+}
+.pub-card__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+.pub-card .archive__item-title {
+  margin: 0 0 2px;
+  font-size: 1.05em;
+  line-height: 1.35;
+  border-bottom: none;
+}
+.pub-card .archive__item-title a { color: var(--text); text-decoration: none; }
+.pub-card .archive__item-title a:hover { color: var(--accent); text-decoration: none; }
+.pub-card:hover .archive__item-title { text-decoration: none; }
+
+.pub-venue { margin: 2px 0 0; font-size: 0.9em; font-style: italic; color: var(--muted); }
+.pub-year { font-size: 0.8em; color: var(--muted); }
+.pub-cite { margin: 11px 0 0; font-size: 0.78em; line-height: 1.55; color: var(--muted); }
+
+.pub-badge {
+  display: inline-block;
+  font-size: 0.7em;
+  font-weight: 500;
+  padding: 2px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.02em;
+}
+.pub-badge--journal { background: #e6f1fb; color: #0c447c; }
+.pub-badge--conf    { background: #e1f5ee; color: #0f6e56; }
+.pub-badge--poster  { background: #faeeda; color: #854f0b; }
+.pub-badge--book    { background: #efeefe; color: #3c3489; }
+.pub-badge--other   { background: var(--accent-soft); color: var(--accent); }
+[data-theme="dark"] .pub-badge--journal { background: #0c447c; color: #b5d4f4; }
+[data-theme="dark"] .pub-badge--conf    { background: #085041; color: #9fe1cb; }
+[data-theme="dark"] .pub-badge--poster  { background: #633806; color: #fac775; }
+[data-theme="dark"] .pub-badge--book    { background: #3c3489; color: #cecbf6; }
+
+.pub-card .pub-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.pub-card .pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78em;
+  padding: 5px 11px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  color: var(--muted);
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+.pub-card .pub-btn:hover { color: var(--accent); border-color: var(--accent); }
