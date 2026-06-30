@@ -123,3 +123,67 @@ pre {
 .page__footer a { color: var(--muted); }
 .page__footer a:hover { color: var(--accent); }
 .page__footer .fas, .page__footer .fab, .page__footer .far { color: var(--muted); }
+
+/* Publication cards (phase 2) ------------------------------------------------ */
+/* The list reserves space for a right sidebar that isn't there; reclaim it. */
+.list__item:has(.pub-card) { padding-right: 0; }
+
+.pub-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 15px 18px;
+  margin-bottom: 14px;
+}
+.pub-card__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+.pub-card .archive__item-title {
+  margin: 0 0 2px;
+  font-size: 1.05em;
+  line-height: 1.35;
+  border-bottom: none;
+}
+.pub-card .archive__item-title a { color: var(--text); text-decoration: none; }
+.pub-card .archive__item-title a:hover { color: var(--accent); text-decoration: none; }
+.pub-card:hover .archive__item-title { text-decoration: none; }
+
+.pub-venue { margin: 2px 0 0; font-size: 0.9em; font-style: italic; color: var(--muted); }
+.pub-year { font-size: 0.8em; color: var(--muted); }
+.pub-cite { margin: 11px 0 0; font-size: 0.78em; line-height: 1.55; color: var(--muted); }
+
+.pub-badge {
+  display: inline-block;
+  font-size: 0.7em;
+  font-weight: 500;
+  padding: 2px 10px;
+  border-radius: 20px;
+  letter-spacing: 0.02em;
+}
+.pub-badge--journal { background: #e6f1fb; color: #0c447c; }
+.pub-badge--conf    { background: #e1f5ee; color: #0f6e56; }
+.pub-badge--poster  { background: #faeeda; color: #854f0b; }
+.pub-badge--book    { background: #efeefe; color: #3c3489; }
+.pub-badge--other   { background: var(--accent-soft); color: var(--accent); }
+[data-theme="dark"] .pub-badge--journal { background: #0c447c; color: #b5d4f4; }
+[data-theme="dark"] .pub-badge--conf    { background: #085041; color: #9fe1cb; }
+[data-theme="dark"] .pub-badge--poster  { background: #633806; color: #fac775; }
+[data-theme="dark"] .pub-badge--book    { background: #3c3489; color: #cecbf6; }
+
+.pub-card .pub-actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.pub-card .pub-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.78em;
+  padding: 5px 11px;
+  border: 1px solid var(--border);
+  border-radius: 7px;
+  color: var(--muted);
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+.pub-card .pub-btn:hover { color: var(--accent); border-color: var(--accent); }
