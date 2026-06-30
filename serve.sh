@@ -23,7 +23,11 @@ if ! docker info >/dev/null 2>&1; then
   exit 1
 fi
 
+# JEKYLL_ENV=production stops `jekyll serve` from rewriting every asset URL to
+# http://0.0.0.0:4000 (which browsers refuse to load). With it, asset paths stay
+# root-relative (/assets/...) and load correctly at http://localhost:4000.
 exec docker run --rm -it \
+  -e JEKYLL_ENV=production \
   -v "$PWD":/srv/jekyll \
   -v jekyll-bundle:/usr/local/bundle \
   -p 4000:4000 -p 35729:35729 \
