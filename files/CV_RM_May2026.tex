@@ -1,0 +1,668 @@
+%% CV – Renato Mio
+%% Compiled with pdflatex
+\documentclass[a4paper,10pt]{article}
+
+%% ─── Packages ────────────────────────────────────────────────────────────────
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{cabin}\renewcommand{\familydefault}{\sfdefault}  % close to Trebuchet
+%\usepackage[scaled=0.92]{helvet}
+%\renewcommand{\familydefault}{\sfdefault}
+\usepackage[
+  a4paper,
+  top=1.8cm, bottom=1.8cm,
+  left=1.6cm, right=1.6cm
+]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{array}
+\usepackage{marvosym}   % \Email, \Mundus
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{needspace}
+\usepackage{graphicx}
+
+%% ─── Colours ─────────────────────────────────────────────────────────────────
+\definecolor{cvteal}{RGB}{20,100,158}
+\definecolor{urlblue}{RGB}{0,70,180}
+
+%% ─── Hyperref ────────────────────────────────────────────────────────────────
+\hypersetup{
+  colorlinks = true,
+  urlcolor   = urlblue,
+  linkcolor  = urlblue,
+  pdfauthor  = {Renato Mio},
+  pdftitle   = {Renato Mio – CV}
+}
+
+%% ─── Section style ───────────────────────────────────────────────────────────
+\titleformat{\section}
+  {\fontsize{12.5}{14}\selectfont\bfseries\color{cvteal}}
+  {}{0em}{}
+  [\vspace{3pt}\color{cvteal}\hrule height 1.2pt\vspace{2pt}]
+
+\titlespacing*{\section}{0pt}{10pt}{4pt}
+
+%% ─── List style ──────────────────────────────────────────────────────────────
+\setlist[itemize]{
+  leftmargin = 1.4em,
+  topsep     = 2pt,
+  itemsep    = 1pt,
+  parsep     = 0pt,
+  label      = \textbullet
+}
+
+%% ─── Spacing ─────────────────────────────────────────────────────────────────
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+
+%% ─── Custom commands ─────────────────────────────────────────────────────────
+% \cvdate{date text}
+\newcommand{\cvdate}[1]{\textit{#1}}
+
+% \cventry{dates}{bold title}{italic institution}{extra line (optional)}
+\newenvironment{cvblock}[2]{%
+  \cvdate{#1}\\%
+  \textbf{#2}%
+}{}
+
+%% ─── Suppress page numbers ───────────────────────────────────────────────────
+\pagestyle{empty}
+
+%% ═══════════════════════════════════════════════════════════════════════════════
+\begin{document}
+%% ═══════════════════════════════════════════════════════════════════════════════
+
+%% ─── HEADER ──────────────────────────────────────────────────────────────────
+{\Huge\textbf{Renato Mio}}\\[2pt]
+{\large\textbf{\color{cvteal}Research Associate -- Brain and Behaviour Laboratory}}\\[1pt]
+{\color{cvteal}University of Bayreuth (Germany)}
+
+\vspace{4pt}
+\includegraphics[height=10pt]{figures/linkedin.png}
+\href{https://www.linkedin.com/in/renatomio/}{\texttt{linkedin.com/in/renatomio}}
+\hspace{1em}
+\includegraphics[height=10pt]{figures/email.png}
+\href{mailto:renato.mio-zaldivar@uni-bayreuth.de}{\texttt{renato.mio-zaldivar@uni-bayreuth.de}}
+\hspace{1em}
+\includegraphics[height=10pt]{figures/github.png}
+\href{https://renatomio.github.io/}{\texttt{renatomio.github.io}}
+
+\vspace{6pt}
+Doctoral researcher working at the intersection of neuromotor control, neural interfaces and machine learning. My work focuses on decoding the neural drive underlying hand movements from spinal motor neuron activity recorded non-invasively, to then develop machine learning models that can predict finger forces and generate commands for external devices. I also have 10 years of experience developing artificial robotic limbs and assistive devices. My past projects include studying human augmentation by controlling an additional robotic finger while playing piano, the design of low-cost bionic hand prostheses (now commercialised), and developing a real-time control system for a gait-assistance exoskeleton.
+
+%% ─── QUALIFICATIONS ──────────────────────────────────────────────────────────
+\section{Qualifications}
+
+\cvdate{10/2022 -- Present}\\
+\textbf{PhD, Medical Informatics,} University of Bayreuth -- Germany\\
+\textbf{Thesis title:} ``Motor learning-based control of peripheral nerves for supernumerary
+degrees of freedom (sDoFs)''.\\
+\textit{Developing non-invasive neural interfaces that enable people to control
+augmentative devices with applications in neurorehabilitation,
+human augmentation, and human-machine interaction.}\\
+\textit{Supervisor: Prof.\ Dr.\ A.\ Aldo Faisal}\\
+The project focuses on non-invasive neural signals as an interface modality to control human
+augmentation devices. My aim is to find signal components independent from muscle force that can
+be used as commands for human-machine interfaces.
+
+\vspace{4pt}
+\cvdate{09/2018 -- 09/2019}\\
+\textbf{MSc, Biomedical Engineering (Biomechanics),} Imperial College London -- United Kingdom\\
+\textit{Final grade: Distinction (74.25\%)}\\
+\textbf{Thesis title:} ``Prediction of Human Ability for Supernumerary Control based on Motor
+Skills'' (see our
+\href{https://www.nature.com/articles/s41598-021-00376-6}{Scientific Reports paper}).\\
+\textit{Supervisor: Prof.\ Dr.\ A.\ Aldo Faisal / Co-supervisor: Dr.\ Ali Shafti}\\
+The project explored how motor skills influence the ability to learn the use of an additional
+robotic finger to play piano.\\
+Featured in
+\href{https://www.imperial.ac.uk/news/232077/pianists-learn-play-with-robotic-third/}{Imperial College News},
+\href{https://www.reuters.com/lifestyle/hands-on-experience-pianists-learn-play-with-robot-thumb-2021-08-25/}{Reuters},
+\href{https://www.newscientist.com/article/2286166-pianists-fitted-with-robotic-thumb-can-learn-to-play-with-11-digits/}{New Scientist},
+\href{https://www.dailymail.co.uk/sciencetech/article-9879571/Pianists-fitted-robotic-THUMB-adjust-playing-hour.html}{Daily Mail UK},
+\href{https://www.cbc.ca/player/play/video/1.6152450}{CBC},
+\href{https://learningenglish.voanews.com/a/pianists-learn-to-play-with-an-extra-robotic-thumb/6017583.html}{VOA},
+\href{https://uk.news.yahoo.com/pianists-learn-play-extra-robotic-135848516.html}{Yahoo News} and
+\href{https://www.mirror.co.uk/news/uk-news/piano-players-extra-robotic-thumb-25796622}{Mirror}.
+
+\vspace{4pt}
+\cvdate{03/2010 -- 12/2014}\\
+\textbf{BSc, Mechatronics Engineering,} Pontifical Catholic University of Peru -- Peru\\
+\textit{Final grade: 17.74/20.00 ($\approx$89\% / First-Class Honours)}\\
+\textbf{Thesis title:} ``Design of an upper-limb exoskeleton controlled by a brain-machine
+interface'' (\href{http://tesis.pucp.edu.pe/repositorio/handle/20.500.12404/6198}{available
+online} in Spanish).\\
+\textit{Supervisor: MSc.\ Roberto Furukawa}
+
+%% ─── WORK EXPERIENCE ─────────────────────────────────────────────────────────
+\section{Work Experience}
+
+\cvdate{06/2022 -- Present}\\
+\textbf{Research Associate}, Chair of Digital Health with a Focus on Data Science,
+\textit{University of Bayreuth}
+\begin{itemize}
+  \item Developed subject- and task-independent machine learning models to decode finger forces
+        from motoneuron discharge rates with $R^2{=}0.944$ regression accuracy and model transfer
+        to leg muscles
+        (\href{https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0001194.pdf}{link to NER'25 paper},
+        \href{https://drive.google.com/file/d/1Bf5zGzO_efQ2zlAygwavf4fBbF0I2lSK/view}{link to poster}).
+  \item Designed experimental protocols and collected two datasets of high-density EMG over the
+        forearm muscles (1) during long finger contractions ($n{=}25$ participants, $>$16h of
+        data), and (2) during both constant and variable (sinusoidal) finger forces ($n{=}52$
+        participants, $>$50h of data).
+  \item Assisted in setting up the
+        \href{https://www.digital-health.uni-bayreuth.de/en/research/live-in-lab/index.html}{Quantitative Live-In-Lab}
+        (QLiLa), a fully sensorised apartment for human behaviour studies. Featured in
+        \href{https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten}{Zeit},
+        \href{https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170}{S\"uddeutsche Zeitung} and
+        \href{https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-7377152}{Sat1.de}.
+  \item Mentored 2 master students, 1 graduate intern and 1 undergraduate student.
+\end{itemize}
+See my \href{https://faisallab.org/members/renato-mio}{researcher bio} at the
+\href{https://faisallab.org/}{Faisal Lab's webpage}.
+
+\vspace{4pt}
+\cvdate{03/2015 -- 09/2018 \& 11/2019 -- 07/2022}\\
+\textbf{Researcher}, Biomechanics and Applied Robotics Research Group,
+\textit{Pontifical Catholic University of Peru}
+\begin{itemize}
+  \item Undertook lead and assistant researcher roles on multiple funded projects within the field
+        of rehabilitation robotics.
+  \item Designed a
+        \href{https://ieeexplore.ieee.org/abstract/document/7942665}{3D-printed bionic hand prosthesis}
+        and implemented the
+        \href{https://link.springer.com/chapter/10.1007/978-3-030-16423-2_8}{control system for a lower-limb exoskeleton}.
+  \item Aided in securing grant funding for over \$500K.
+  \item Mentored undergraduate national and international students interested in rehabilitation
+        robotics research.
+\end{itemize}
+
+\vspace{4pt}
+\cvdate{02/2017 -- 07/2022}\\
+\textbf{Co-founder \& CTO}, LAT Bionics (social start-up, formerly \textit{Dando una mano})
+\begin{itemize}
+  \item Co-founded a social start-up to address a clear unmet need: upper-limb prostheses in
+        low-resource settings cost upwards of \$10,000 USD, placing them out of reach for the
+        vast majority of amputees in Latin America.
+  \item Led the engineering team to design, iterate, and commercialise a \textbf{custom-fit
+        3D-printed bionic hand}, balancing clinical functionality, manufacturing constraints,
+        and affordability. The device has reached \textbf{200+ users} and is in active
+        commercial deployment.
+  \item Managed the full translational arc from prototype to product: design documentation,
+        regulatory considerations, user testing, and funding through grant writing (\$500K+ raised across related
+        rehabilitation engineering projects).
+  \item Published the technical design in a Best Student Paper Award-winning \href{https://ieeexplore.ieee.org/document/8567461}{conference paper}.
+        See our \href{https://www.ted.com/talks/enzo_romero_the_affordable_3d_printed_bionics_of_the_future}{TED Talk}
+        and \href{https://www.instagram.com/latbionics/}{social media page}.
+\end{itemize}
+
+\vspace{4pt}
+\cvdate{03/2020 -- 07/2022}\\
+\textbf{Hired Lecturer (part time)}, Mechanical Engineering Faculty,
+\textit{Pontifical Catholic University of Peru}
+\begin{itemize}
+  \item In charge of designing lecture materials and course evaluations.
+  \item Carried out academic supervision of students from the BSc Mechatronics and BSc Biomedical
+        Engineering courses.
+\end{itemize}
+
+\vspace{4pt}
+\cvdate{03/2014 -- 07/2018}\\
+\textbf{Teacher Assistant}, Mechanical Engineering Faculty,
+\textit{Pontifical Catholic University of Peru}
+\begin{itemize}
+  \item Designed, taught and graded hands-on laboratory sessions in several engineering courses.
+\end{itemize}
+
+%% ─── GRANTS AND AWARDS ───────────────────────────────────────────────────────
+\section{Grants and Awards}
+
+\textbf{\textit{Research grants}}
+
+\vspace{2pt}
+\cvdate{01/2021 -- 07/2022.} PI: Prof.\ Dante Elias.\\
+Co-I on: \textbf{Development of a Transhumeral Arm Prosthesis with Haptic Feedback Controlled by
+Physiological Signals*}.\\
+\textit{By the National Fund for the Development of Science, Technology and Innovation of Peru --
+\textbf{50K USD}}
+
+\vspace{3pt}
+\cvdate{02/2018 -- 12/2018.} PI: Prof.\ Quino Valverde.\\
+Co-I on: \textbf{Optimization of Polymer Utilization on Additive Manufacturing Processes through
+Computational Modelling and Mechanical Characterization. Case Study: Hand Prostheses*}.\\
+\textit{By the National Fund for the Development of Science, Technology and Innovation of Peru --
+\textbf{100K USD.}}
+
+\vspace{3pt}
+\cvdate{02/2016 -- 12/2017.} PI: Prof.\ Dante Elias.\\
+Co-I on: \textbf{Implementation of a myoelectric upper-limb transradial prosthesis with force
+control and haptic feedback**}.\\
+\textit{By the National Fund for the Development of Science, Technology and Innovation of Peru --
+\textbf{100K USD.}}
+
+\vspace{3pt}
+\cvdate{03/2016 -- 10/2017.} PI: Prof.\ Francisco Rumiche.\\
+RA on: \textbf{Mechanical Characterization and FEA Simulation of Components for a 3D-printed Hand
+Prosthesis*}.\\
+\textit{By the Pontifical Catholic University of Peru -- \textbf{46K USD.}}
+
+\vspace{3pt}
+\cvdate{03/2015 -- 12/2016.} PI: Prof.\ Dante Elias.\\
+RA on: \textbf{Development of a Lower-Limb Exoskeleton for Gait Patterns Reproduction and
+Movement Assistance}.\\
+\textit{By the National Fund for the Development of Science, Technology and Innovation of Peru --
+\textbf{100K USD.}}
+
+\vspace{4pt}
+\textbf{\textit{Innovation Grant ``Ideas Audaces'' (``Bold Ideas'')}}
+
+Lead designer on: \textbf{Giving a Hand -- Custom 3D-printed low-cost hand prostheses**}
+(2016, Coordinator: Prof.\ Dante Elias).\\
+\textit{By the National Fund for the Development of Science, Technology and Innovation of Peru --
+\$26K.}\\
+Media coverage:
+\href{https://www.youtube.com/watch?v=WlIK1LMIvh8}{TV Peru},
+\href{https://www.youtube.com/watch?v=cQpSwX30ggA}{Andina News}
+
+\vspace{4pt}
+\textbf{\textit{Socially Responsible Initiatives Grant}}
+
+Leader of: \textbf{Integrating Virtual Reality and Disability**}. The project aimed to include
+therapeutic interactive videogames developed by
+Mira Rehab as part of the physical rehabilitation program for
+children with cerebral palsy at a Peruvian Health Centre (2018).\\
+\textit{By the Pontifical Catholic University of Peru -- \$2.6K.}
+
+\vspace{3pt}
+\footnotesize
+Co-I: Co-investigator \quad RA: Research assistant \quad *Assisted proposal writing \quad
+**Led the proposal writing
+\normalsize
+
+\vspace{4pt}
+\textbf{\textit{Awards}}
+\begin{itemize}
+  \item \textbf{Pitch Competition Winner, Ideenwettbewerb 2025/2026 (Bayreuth)} for
+        \href{https://www.uni-bayreuth.de/pressemitteilung/ki-gegen-food-waste}{MetricMeals},
+        an AI-powered food demand forecasting tool co-developed through the \href{https://www.ai-association.uni-bayreuth.de/en/index.html}{Bayreuth AI
+        Association}. The product is now deployed at the University of Bayreuth canteen.
+  \item \textbf{Best paper award finalist at
+        \href{https://icorr-c.org/icorr_2025/}{ICORR 2025}} for my paper on the
+        \href{https://ieeexplore.ieee.org/document/11063063}{first-ever body-powered additional
+        robotic finger}.
+  \item \textbf{Awarded silver medal in KIWIE 2023 Invention Exposition} for a patent on finger
+        covers for hand prostheses. Featured in
+        \href{https://andina.pe/agencia/noticia-invento-peruano-para-recubrir-protesis-mano-fue-premiado-corea-del-sur-954860.aspx}{Andina News}
+        and \href{https://www.elperuano.pe/noticia/223247-invento-peruano-es-premiado-en-corea}{El Peruano}
+        (in Spanish).
+  \item \textbf{Awarded
+        \href{https://bibe2018.asia.edu.tw/uploads/asset/data/659626b8367376243a65b6c3/data-paper-std-status-award-1.pdf}{Best Student Paper}}
+        at the
+        \href{http://bibe2018.asia.edu.tw/}{18th IEEE International Conference on BioInformatics and BioEngineering}.
+        Read the paper \href{https://ieeexplore.ieee.org/document/8567461}{here}.
+  \item \textbf{Chevening Scholarship} (2018-19 cohort) granted by the UK Foreign and
+        Commonwealth Office for a fully funded one-year master's programme in the UK, covering
+        overseas tuition plus living costs (valued around \pounds45,000).
+  \item \textbf{Academic Excellence Scholarship} (2013--2014) granted by Pontifical Catholic
+        University of Peru for 100\% coverage of tuition fees.
+  \item \textbf{Awarded 1\textsuperscript{st} place in Peru in NASA Space Apps Challenge 2016.}
+        Read the coverage by
+        \href{https://puntoedu.pucp.edu.pe/noticia/equipo-de-la-pucp-gana-primer-puesto-en-nasa-space-apps-challenge/}{PUCP university}
+        (in Spanish).
+\end{itemize}
+
+%% ─── TEACHING AND SUPERVISION ────────────────────────────────────────────────
+\section{Teaching and Supervision}
+
+\textbf{\textit{Academic teaching experience}}
+
+\vspace{2pt}
+\begin{tabular}{@{}ll}
+  \textbf{Electronic Design Automation} & Kutaisi International University, Hired lecturer\\
+  \textbf{Reinforcement Learning for Scientists and Engineers} & University of Bayreuth, GTA\\
+  \textbf{Seminar in Brain-Computer Interfaces}                 & University of Bayreuth, GTA\\
+  \textbf{Digital Health}                                       & University of Bayreuth, GTA\\
+  \textbf{Introduction to Programming with Python for Digital Health \& AI}
+                                                                & University of Bayreuth, GTA\\
+  \textbf{Rehabilitation Engineering}
+    & PUCP, Hired lecturer\\
+  \textbf{Biomechatronics}
+    & PUCP, Hired lecturer\\
+  \textbf{Control Theory}
+    & PUCP, Hired lecturer\\
+  \textbf{Industrial Design for Biomedical Engineering}         & PUCP, GTA\\
+  \textbf{Computer-Aided Manufacturing}                         & PUCP, GTA\\
+  \textbf{Simulation Tools}                                     & PUCP, GTA\\
+\end{tabular}
+
+\vspace{4pt}
+\textbf{\textit{Academic supervision experience}}
+
+\vspace{2pt}
+\textbf{J.\ Bodenschl\"agel, MSc}, on studying forearm motoneurons controlling fingers using
+high density EMG, 2025 |
+\href{https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0000634.pdf}{\textbf{IEEE NER'25}}.
+
+\textbf{M.\ Gonzales Pareja, MSc}, on the development of an EMG-based control system for a
+transhumeral arm prosthesis, 2024.
+
+\textbf{A.\ Maguina, BSc,} on the design of a novel body-powered supernumerary robotic finger,
+2023 |
+\href{https://link.springer.com/chapter/10.1007/978-3-031-49407-9_52}{\textbf{Springer 2024}} |
+\href{https://ieeexplore.ieee.org/document/11063063}{\textbf{ICORR'25}}.
+
+\textbf{G.\ Oshiro, BSc,} on the design of supernumerary robotic arms to assist in cooking
+tasks, 2021.
+
+\textbf{J.M.\ Pacheco, BSc}, on the design of a modular upper-limb myoelectric prosthesis for
+children, 2021.
+
+\textbf{V.\ Ticllacuri, BSc}, on the design of a soft robotic device for muscle and blood flow
+stimulation in lower limbs, 2021 |
+\href{https://ieeexplore.ieee.org/document/9630974}{\textbf{EMBC'21}}|%
+\href{https://ieeexplore.ieee.org/document/10782886}{\textbf{EMBC'24}}|%
+\href{https://ieeexplore.ieee.org/document/10782663}{\textbf{EMBC'24}}.
+
+\textbf{J.\ P\'erez, BSc}, on the design of an elbow flexion mechanism for transhumeral
+prostheses with hybrid actuation, 2020.
+
+\textbf{A.\ Morveli, BSc}, on supernumerary robotic fingers to aid people with impaired hand
+mobility, 2020 |
+\href{https://ieeexplore.ieee.org/abstract/document/10162114}{\textbf{IEEE BioSmart'23}}.
+
+\textbf{G.\ Bustamante, BSc}, on the design of supernumerary robotic limbs for industrial
+assembly tasks, 2020.
+
+\vspace{4pt}
+\textbf{\textit{Mentoring of international students}}
+
+\vspace{2pt}
+\textit{As part of Rochester Institute of Technology Co-op Education Program (2018)}
+
+\textbf{N.\ Hachmann -- Rochester Institute of Technology}, BSc, on the design and fabrication
+of a body-powered hand prosthesis simulator.
+
+\vspace{2pt}
+\textit{As part of MIT MISTI Internship Program (2017)}
+
+\textbf{J.\ Faraguna -- Massachusetts Institute of Technology,} BSc, on parametric design
+strategies to automate prosthetic design processes.
+
+\textbf{B.\ Schelhaas -- Massachusetts Institute of Technology,} BSc, on the study of human hand
+anthropometry to find parametric relationships between segments' lengths.
+
+%% ─── SKILLS ──────────────────────────────────────────────────────────────────
+\section{Skills}
+
+\textbf{Technical and computing skills}
+\begin{itemize}
+  \item Python (PyTorch, TensorFlow)
+  \item Matlab (for signal processing, real-time control, robotics and data analysis)
+  \item C\# and C++
+  \item CAD design (Autodesk Inventor, Fusion 360, Solidworks)
+  \item FEA simulation (ANSYS)
+\end{itemize}
+\newpage
+\textbf{Hardware}
+\begin{itemize}
+  \item Electromyography (high-density EMG with Novecento+ and Sessantaquattro+ amplifiers by OT Bioelettronica)
+  \item Electroencephalography (ActiCHamp and CGX Quick 32r by Brain Products, Emotiv)
+  \item fNIRS (NIRSport 2 by NIRx)
+  \item Motion capture systems (XSens by Movella, Xsens Metagloves by Manus, Cyberglove)
+  \item Eye tracking (Pupil Core)
+  \item FDM and SLA 3D Printers (FormLabs, Ultimaker, AnyCubic)
+  \item Arduino
+\end{itemize}
+
+\textbf{Languages}
+
+Spanish (native) \textbf{|} English (C2) \textbf{|} German (B2)
+\textbf{|} Italian (A2)
+
+%% ─── PUBLICATIONS ────────────────────────────────────────────────────────────
+\section{Publications}
+
+\begin{itemize}
+  \item \textbf{R.\ Mio}, J.\ Bodenschl\"agel and A.\ A.\ Faisal,
+        \textit{``Finger Force Prediction from Spinal Signals: Machine Learning Pipeline for the
+        Neural Drive''},
+        \href{https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0001194.pdf}{IEEE NER'25}.
+
+  \item J.\ Bodenschl\"agel, \textbf{R.\ Mio} and A.\ A.\ Faisal,
+        \textit{``Tracking Forearm Motor Units Across Constrained and Unconstrained Finger Force
+        Control Tasks''},
+        \href{https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0000634.pdf}{IEEE NER'25}.
+
+  \item \textbf{R.\ Mio}, J.\ Narayan and A.\ A.\ Faisal,
+        \textit{``Motor Unit Decomposition over Intrinsic Hand Muscles during Single and
+        Multi-finger Flexion''},
+        \href{https://link.springer.com/chapter/10.1007/978-3-031-85000-4_25}{Springer'25}.
+
+  \item A.\ Maguina, \textbf{R.\ Mio} and S.\ Caballa,
+        \textit{``A Body-Powered Wrist-Driven Supernumerary Robotic Finger''},
+        \href{https://ieeexplore.ieee.org/document/11063063}{ICORR'25}.
+
+  \item R.\ Borja-Inga, \textbf{R.\ Mio} and J.\ Narayan,
+        \textit{``A Low-Cost Upper-Limb Prosthetic Tool for Handlebar-Driven Vehicles''},
+        \href{https://ieeexplore.ieee.org/document/10719816}{IEEE BioRob'24}.
+
+  \item V.\ Ticllacuri and \textbf{R.\ Mio},
+        \textit{``Mathematical Modeling and Characterization of a Wearable Soft Robotic Device
+        for Muscle Mechanotherapy''},
+        \href{https://ieeexplore.ieee.org/document/10782663}{IEEE EMBC'24}.
+
+  \item V.\ Ticllacuri and \textbf{R.\ Mio},
+        \textit{``Computational Analysis of Mechanical Interactions between a Soft Robotic Device
+        and a Skin-Muscle Phantom for Mechanotherapy''},
+        \href{https://ieeexplore.ieee.org/document/10782886}{IEEE EMBC'24}.
+
+  \item \textbf{R.\ Mio} and A.\ Morveli,
+        \textit{``Supernumerary Robotic Fingers for Assistance in Cylindrical and Pinch Grasps''},
+        \href{https://ieeexplore.ieee.org/abstract/document/10162114}{BioSmart'23}.
+
+  \item \textbf{R.\ Mio}, S.\ Caballa, R.\ Vega-Centeno and M.\ Bustamante,
+        \textit{``One-to-many Actuation Mechanism for a 3D-Printed Anthropomorphic Hand
+        Prosthesis''},
+        \href{https://link.springer.com/chapter/10.1007/978-3-031-49407-9_62}{IFMBE Springer'24}.
+
+  \item A.\ Maguina and \textbf{R.\ Mio},
+        \textit{``Augmented Grasps: Supernumerary Robotic Fingers and their Practical Uses''},
+        \href{https://link.springer.com/chapter/10.1007/978-3-031-49407-9_52}{IFMBE Springer'24}.
+
+  \item V.\ Ticllacuri and \textbf{R.\ Mio},
+        \textit{``Design and Simulation of a Soft Robotic Device for Muscle Rehabilitation and
+        Blood Flow Stimulation Therapy''},
+        \href{https://ieeexplore.ieee.org/document/9630974}{EMBC'21}.
+
+  \item A.\ Shafti, S.\ Haar, \textbf{R.\ Mio}, P.\ Guilleminot and A.\ A.\ Faisal,
+        \textit{``Playing the piano with a robotic third thumb: assessing constraints of human
+        augmentation''},
+        \href{https://www.nature.com/articles/s41598-021-00376-6}{Scientific Reports 11, 21375 (2021)}.
+
+  \item \textbf{R.\ Mio}, M.\ Bustamante, G.\ Salazar and D.\ Elias,
+        \textit{``A 3D-Printed Prosthetic Hand with Modular Reconfigurable Fingers''},
+        \href{https://link.springer.com/chapter/10.1007/978-3-030-16423-2_9}{Springer'19}.
+
+  \item D.\ Elias, D.\ Cerna, C.\ Chicoma and \textbf{R.\ Mio},
+        \textit{``Characteristics of a Lower Limb Exoskeleton for Gait and Stair Climbing
+        Therapies''},
+        \href{https://link.springer.com/chapter/10.1007/978-3-030-16423-2_8}{Springer'19}.
+
+  \item \textbf{R.\ Mio}, M.\ S\'anchez, Q.\ Valverde, J.\ Lara and F.\ Rumiche,
+        \textit{``Mechanical Testing Methods for Body-Powered Upper-Limb Prostheses: A Case
+        Study''},
+        \href{https://astesj.com/v04/i05/p08/}{ASTESJ'19}.
+
+  \item \textbf{R.\ Mio}, M.\ S\'anchez and Q.\ Valverde,
+        \textit{``Mechanical Testing Methods for Body-Powered Upper-Limb Prostheses: A Review''},
+        \href{https://ieeexplore.ieee.org/document/8567479}{IEEE BIBE'18}.
+
+  \item M.\ Bustamante, R.\ Vega-Centeno, M.\ S\'anchez and \textbf{R.\ Mio},
+        \textit{``A parametric 3D-printed body-powered hand prosthesis based on the four-bar
+        linkage mechanism''},
+        \href{https://ieeexplore.ieee.org/document/8567461}{IEEE BIBE'18}.
+
+  \item \textbf{R.\ Mio}, B.\ Villegas, L.\ Ccorimanya, K.\ M.\ Flores, G.\ Salazar and
+        D.\ Elias,
+        \textit{``Development and assessment of a powered 3D-printed prosthetic hand for
+        transmetacarpal amputees''},
+        \href{https://ieeexplore.ieee.org/document/7942665/}{IEEE'17}.
+\end{itemize}
+
+%% ─── MEDIA COVERAGE ──────────────────────────────────────────────────────────
+\section{Media Coverage}
+
+\begin{itemize}
+  \item \textbf{Kurier}: Featuring the AI Association's
+        \href{https://www.kurier.de/inhalt.an-bayreuther-uni-ki-rechnet-an-der-mensa-die-essen-aus.9a64171f-0ad6-481a-9eb8-6f016e88c68f.html}{project
+        to use AI to forecast food demands} at the university, improve planning, and reduce food
+        waste. Also covered by
+        \href{https://www.uni-bayreuth.de/pressemitteilung/ki-gegen-food-waste}{UBT},
+        \href{https://www.infranken.de/lk/bayreuth/ki-in-der-mensa-der-uni-bayreuth-was-es-damit-auf-sich-hat-art-6087541}{inFranken}
+        and
+        \href{https://www.bayreuther-tagblatt.de/bayreuth-2/ki-in-der-bayreuther-mensa/}{Bayreuther Tagblatt}.
+
+  \item \textbf{Zeit.de:} Featuring our ``live-in-lab'', an apartment fitted with all sorts of
+        sensors for real-world human behaviour studies.
+        \href{https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten}{Link}.
+        Also covered on
+        \href{https://www.sueddeutsche.de/bayern/wissenschaft-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170}{S\"uddeutsche Zeitung}
+        and
+        \href{https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f}{Sat1.de}.
+
+  \item \textbf{Imperial College News:} Featuring research in relation to my MSc project on
+        robotic human augmentation by controlling an additional robotic finger while playing piano.
+        \href{https://www.imperial.ac.uk/news/232077/pianists-learn-play-with-robotic-third/}{Link}.
+        Also featured
+        \href{https://www.reuters.com/lifestyle/hands-on-experience-pianists-learn-play-with-robot-thumb-2021-08-25/}{Reuters},
+        \href{https://www.newscientist.com/article/2286166-pianists-fitted-with-robotic-thumb-can-learn-to-play-with-11-digits/}{New Scientist},
+        \href{https://www.dailymail.co.uk/sciencetech/article-9879571/Pianists-fitted-robotic-THUMB-adjust-playing-hour.html}{Daily Mail UK},
+        \href{https://www.cbc.ca/player/play/video/1.6152450}{CBC},
+        \href{https://learningenglish.voanews.com/a/pianists-learn-to-play-with-an-extra-robotic-thumb/6017583.html}{VOA},
+        \href{https://uk.news.yahoo.com/pianists-learn-play-extra-robotic-135848516.html}{Yahoo News},
+        \href{https://www.mirror.co.uk/news/uk-news/piano-players-extra-robotic-thumb-25796622}{Mirror},
+        and other media.
+
+  \item \textbf{Andina News:} Featuring our research on custom bionic hand prostheses.
+        \href{https://andina.pe/agencia/noticia-investigadores-fabrican-protesis-mioelectrica-personalizada-mano-832760.aspx}{Link}
+        (in Spanish). Also featured in
+        \href{https://puntoedu.pucp.edu.pe/noticia/manos-inteligentes/}{PUCP university} news.
+
+  \item \textbf{TV Peru:} Interviewed regarding my team's work on affordable 3D-printed hand
+        prostheses.
+        \href{https://www.youtube.com/watch?v=WlIK1LMIvh8&t=13s}{Link to video} (in Spanish).
+\end{itemize}
+
+More news in \href{https://renatomio.github.io/news/}{personal website}.
+
+%% ─── EXTRACURRICULAR ACTIVITIES ──────────────────────────────────────────────
+\section{Extracurricular Activities}
+
+\begin{itemize}
+  \item \textbf{\textit{Co-founder and vicepresident}} of the
+        \textbf{\href{https://www.ai-association.uni-bayreuth.de/en/index.html}{Bayreuth AI Association e.V.}
+        (2024)}, whose mission is to create a platform to foster the exchange of knowledge and
+        upskill our members through practical applications of AI/ML. Our activities include
+        skill-sharing sessions, guest talks from industry and academia experts, and hands-on
+        programming projects.
+
+  \item \textbf{\textit{Co-organisation}} of the workshop \textbf{\textit{``AI in Radiology'',}}
+        in collaboration with Prof.\ Benjam\'in Casta\~neda (Local Chair) and the Peruvian
+        Radiologists Society as a satellite event of the
+        \href{https://www.miccai2020.org/en/}{MICCAI 2020 Conference}.
+
+  \item \textbf{\textit{Co-organisation}} of the \textbf{\textit{``Makeathon 2016 -- Disability
+        and Inclusion''.}} In this event, students and professionals volunteered to develop
+        open-source solutions for specific disabilities during a 48-hour marathon. Co-organised by
+        PUCP and the National Council for the Inclusion of People with Disabilities.
+        \href{https://www.youtube.com/watch?v=YoldwjsR4V8}{Video of the event.}
+
+  \item \textbf{\textit{Vice-president}} of the Mechatronics Engineering Students Association
+        (2013) at Pontifical Catholic University of Peru.
+\end{itemize}
+
+%% ─── CONFERENCE PRESENTATIONS ────────────────────────────────────────────────
+\section{Conference Poster and Oral Presentations}
+
+\begin{itemize}
+  \item \textbf{R.\ Mio}, J.\ Bodenschl\"agel and A.\ A.\ Faisal,
+        \textit{``Motor unit tracking across force paradigms and subject-independent finger force
+        prediction from spike trains''},
+        \href{https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0001194.pdf}{Neuroscience'25}.
+        Link to \href{https://drive.google.com/file/d/13unzQtqwPZ9eM1asmOXzJiohuUaCmKiP/view}{slides}.
+
+  \item \textbf{R.\ Mio}, J.\ Bodenschl\"agel and A.\ A.\ Faisal,
+        \textit{``Finger Force Prediction from Spinal Signals: Machine Learning Pipeline for the
+        Neural Drive''},
+        \href{https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0001194.pdf}{NER'25}.
+        Link to \href{https://drive.google.com/file/d/1tA1x0ZtYpeS_oH596BxBRVkEx5lqLxT4/view}{slides}.
+
+  \item \textbf{R.\ Mio}, J.\ Bodenschl\"agel and A.\ A.\ Faisal,
+        \textit{``Generic attention-based model for force prediction from spinal motoneuron
+        activity across upper- and lower-limb muscles''},
+        \href{https://events.hifis.net/event/2048/overview}{Bavarian Conference on AI in Medicine}.
+        Link to \href{https://drive.google.com/file/d/1Bf5zGzO_efQ2zlAygwavf4fBbF0I2lSK/view}{poster}.
+
+  \item Urs Ke\ss ner, \textbf{R.\ Mio}, J.\ Bodenschl\"agel and A.\ A.\ Faisal,
+        \textit{``Enhanced finger force estimation by integrating spatial information from
+        motoneurons activations derived from high-density EMG''},
+        \href{https://events.hifis.net/event/2048/overview}{Bavarian Conference on AI in Medicine}.
+        Link to \href{https://drive.google.com/file/d/1DoIFTXmPk0SWMkDUIpufXHAe1I7s-B4X/view}{poster}.
+
+  \item R.\ Borja-Inga, \textbf{R.\ Mio} and J.\ Narayan,
+        \textit{``A Low-Cost Upper-Limb Prosthetic Tool for Handlebar-Driven Vehicles''},
+        \href{https://www.biorob2024.org/}{IEEE RAS EMBS 10th International Conference on
+        Biomedical Robotics and Biomechatronics (BioRob 2024)}.
+        Link to \href{https://drive.google.com/file/d/1gZYVSDfa1JtAwqObbTi2WXZDAx2tNI-v/view}{poster}.
+
+  \item \textbf{R.\ Mio,} J.\ Narayan and A.\ A.\ Faisal,
+        \textit{``Motor Learning and Changes at Motor Unit-Level Modulation Patterns in
+        Variable-Force Single Digit Tasks''},
+        \href{https://www.hybridneuro.feri.um.si/summerschools/summer_school_mb.html}{Hybrid Neural
+        Interfaces Summer School 2024}.
+        Link to \href{https://drive.google.com/file/d/1yv2fcYvdUpcuaJlFeGLkEX01z2izDLAD/view}{poster}.
+
+  \item \textbf{R.\ Mio,} J.\ Narayan and A.\ A.\ Faisal,
+        \textit{``Motor Units Recruitment and Modulation Patterns in Variable-Force Single Digit
+        Tasks''},
+        \href{https://ncm-society.org/}{Neural Control of Movement 2024}.
+        Link to \href{https://drive.google.com/file/d/17kBlPfE_kr3WV9e0rjOBWC9FSO4G9oKw/view}{poster}.
+
+  \item \textbf{R.\ Mio} and A.\ A.\ Faisal,
+        \textit{``Non-invasively decoding of the neural drive in the upper-limb during individual
+        finger movements''},
+        \href{https://www.physoc.org/events/neurophysiological-bases-of-human-movement/}{Neurophysiological
+        Bases of Human Movement 2023}.
+        Link to \href{https://drive.google.com/file/d/1-DpTwF4H6sdqBJrMI3x_ZBgHl-5VQmVk/view}{poster}.
+
+  \item \textbf{R.\ Mio,} J.\ Narayan and A.\ A.\ Faisal,
+        \textit{``Motor Unit Decomposition over Intrinsic Hand Muscles during Single and
+        Multi-finger Flexion''},
+        \href{https://2023.summerschoolneurorehabilitation.org}{2023 Summer School on
+        Neurorehabilitation}
+        (link to \href{https://drive.google.com/file/d/1-HyJaLUFHGsnG2T6gvZWTOqyVgjK2bR5/view}{slides},
+        short paper in Springer).
+
+  \item \textbf{R.\ Mio} and A.\ A.\ Faisal,
+        \textit{``Neurophysiological constraints on human-robot interfacing for augmentation''},
+        \href{https://neuroadaptive.org/conference/2022/}{\textbf{Neuroadaptive Technology 2022}}.
+        Link to \href{https://drive.google.com/file/d/1CpjFdZZpJDgakxyRok4HfbizW350qU1z/view}{\textbf{poster}}.
+
+  \item \textbf{R.\ Mio} and A.\ A.\ Faisal,
+        \textit{``Motor unit decomposition from surface high-density electromyography as an
+        interfacing modality for human augmentation''},
+        \href{https://www.baylds.uni-bayreuth.de/de/index.html}{\textbf{Bayreuth Lab for Digital
+        Sciences}} Day.
+        Link to \href{https://drive.google.com/file/d/1CoQB-ViriyMpCrMtY-vz5LEwlsmC-0Zd/view}{\textbf{poster}}.
+
+  \item \textbf{R.\ Mio} and M.\ Bustamante,
+        \textit{``Personalized fingers design with silicone rubber texture fingertip for increased
+        grip in transmetacarpal powered hand prostheses''},
+        \href{https://ethz.ch/content/dam/ethz/special-interest/conference-websites-dam/cybathlon-symp-dam/documents/Cybathlon\%20Symposium\%20Booklet.pdf}{\textbf{Cybathlon Symposium'16 (Booklet pp42)}}.
+\end{itemize}
+
+\end{document}
