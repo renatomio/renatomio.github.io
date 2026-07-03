@@ -94,13 +94,14 @@ p, li, dt, dd, td, th { color: var(--text); }
 .author__avatar img { border-color: var(--border) !important; }
 
 /* The affiliation line is longer than the social labels, so let it wrap
-   (the theme forces nowrap on every author link); hanging indent keeps the
-   wrapped line aligned under the text rather than the icon. */
+   (the theme forces nowrap on every author link). Flex keeps the icon at the
+   same left edge as the other links and hangs the wrapped text beside it. */
 .sidebar .author__urls li.author__desktop {
+  display: flex;
+  align-items: baseline;
   white-space: normal;
-  padding-left: 1.6em;
-  text-indent: -1.6em;
 }
+.sidebar .author__urls li.author__desktop i { flex-shrink: 0; }
 
 /* On desktop the author links sit transparently in the sidebar (no box).
    Only the collapsed mobile pop-up needs a surface + border. */
