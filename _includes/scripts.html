@@ -21,4 +21,18 @@
   })();
 </script>
 
+<!-- Open external links (papers, media, etc.) in a new tab -->
+<script>
+  (function () {
+    var links = document.querySelectorAll('a[href]');
+    for (var i = 0; i < links.length; i++) {
+      var a = links[i];
+      if (/^https?:\/\//i.test(a.getAttribute('href')) && a.host !== location.host) {
+        a.target = '_blank';
+        a.rel = 'noopener noreferrer';
+      }
+    }
+  })();
+</script>
+
 {% include analytics.html %}

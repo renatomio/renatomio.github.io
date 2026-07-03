@@ -1,0 +1,48 @@
+---
+layout: single
+title: "Research"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /projects.html
+---
+
+{% include base_path %}
+
+{% for group in site.data.projects %}
+  <h2 class="proj-theme">{{ group.theme }}</h2>
+  <div class="proj-grid">
+    {% for project in group.projects %}
+      <article class="proj-card">
+        {% if project.image %}
+          <div class="proj-card__cover">
+            <img src="{% if project.image contains '://' %}{{ project.image }}{% else %}{{ project.image | prepend: base_path }}{% endif %}" alt="{{ project.title | escape }}" loading="lazy">
+          </div>
+        {% else %}
+          <div class="proj-card__accent"><i class="fas {{ project.icon | default: 'fa-diagram-project' }}" aria-hidden="true"></i></div>
+        {% endif %}
+        <div class="proj-card__body">
+          <h3 class="proj-card__title">{{ project.title }}</h3>
+          {% if project.period and project.period != "" %}<p class="proj-card__period">{{ project.period }}</p>{% endif %}
+          <p class="proj-card__desc">{{ project.description }}</p>
+          {% if project.tags %}
+            <div class="proj-card__tags">
+              {% for tag in project.tags %}<span class="proj-tag">{{ tag }}</span>{% endfor %}
+            </div>
+          {% endif %}
+          {% if project.links %}
+            <div class="proj-card__links">
+              {% for link in project.links %}
+                <a class="proj-link" href="{{ link.url }}">
+                  {% if link.type == 'code' %}<i class="fab fa-github" aria-hidden="true"></i>
+                  {% elsif link.type == 'video' %}<i class="fas fa-play" aria-hidden="true"></i>
+                  {% else %}<i class="fas fa-file-lines" aria-hidden="true"></i>{% endif %}<span>{{ link.label }}</span>
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+{% endfor %}

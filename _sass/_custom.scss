@@ -21,8 +21,4 @@
   text-align: left !important;
 }
 
-/* Additional formatting for employer block in sidebar*/
-.author__desktop {
-  text-indent: -0.35em;   /* pulls the first line left */
-  padding-left: 0.75em;   /* pushes rest of the lines right */
-}
+/* (employer now renders on a single line, so no hanging indent is needed) */

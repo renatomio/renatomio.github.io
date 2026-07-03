@@ -1,0 +1,121 @@
+# Research projects, grouped by theme, rendered as cards on /projects/.
+#
+# To add an image to a card later: drop the file in images/projects/ and set
+#   image: /images/projects/my-file.jpg
+# Landscape works best (it is cropped to a 16:9 frame, centred). Leave `image`
+# empty to show the subtle accent header with the icon instead.
+# `icon` is any Font Awesome solid name (https://fontawesome.com/search?s=solid).
+# `type` on a link controls its icon: omit for a paper, or use code / video.
+
+- theme: "Human augmentation & EMG"
+  projects:
+    - title: "Motor-learning control for supernumerary degrees of freedom"
+      period: "PhD project · 2022 – present"
+      icon: "fa-wave-square"
+      image:
+      description: "Non-invasive neural interfaces for human augmentation: high-density surface EMG is decomposed into individual motoneuron signals, adding controllable dimensions without disrupting natural motor control."
+      tags: ["HD-EMG", "Motor unit decomposition", "Time-series regression"]
+      links:
+        - label: "Finger force prediction (NER 2025)"
+          url: "https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0001194.pdf"
+        - label: "Motor unit tracking (NER 2025)"
+          url: "https://cmsfiles.s3.amazonaws.com/ner2025/proceedings/61569_CFP25CNE-ART/pdfs/0000634.pdf"
+        - label: "MU decomposition, intrinsic hand muscles"
+          url: "https://link.springer.com/chapter/10.1007/978-3-031-85000-4_25"
+        - label: "Piano with a robotic third thumb (Sci. Reports)"
+          url: "https://www.nature.com/articles/s41598-021-00376-6"
+    - title: "Prediction of human ability for supernumerary control"
+      period: "MSc project · 2019"
+      icon: "fa-hand"
+      image:
+      description: "How motor-skill proficiency influences the ability to control a supernumerary robotic finger while playing the piano, measured through hand, foot and piano dexterity experiments."
+      tags: ["Human augmentation", "Motor skills", "Supernumerary robotics"]
+      links:
+        - label: "Scientific Reports"
+          url: "https://www.nature.com/articles/s41598-021-00376-6"
+    - title: "Body-powered supernumerary robotic finger (bpSRF)"
+      period: ""
+      icon: "fa-gears"
+      image:
+      description: "A lightweight extra finger that enhances grasping using only wrist movement — no electronic components, relying purely on body-powered mechanisms."
+      tags: ["Assistive robotics", "Supernumerary limbs", "Grasping"]
+      links:
+        - label: "ICORR 2025"
+          url: "https://ieeexplore.ieee.org/document/11063063"
+        - label: "GitHub – bpSRF"
+          url: "https://github.com/renatomio/bpSRF"
+          type: "code"
+    - title: "Supernumerary fingers for cylindrical and pinch grasps"
+      period: "2022 – present"
+      icon: "fa-hand-scissors"
+      image:
+      description: "A wearable device with two extra robotic fingers supporting power and precision grasps for users with motor impairments, using intuitive wrist-based control."
+      tags: ["Assistive robotics", "Supernumerary limbs", "Grasping"]
+      links:
+        - label: "IEEE BioSMART 2023"
+          url: "https://ieeexplore.ieee.org/document/10162114"
+
+- theme: "Upper-limb prostheses"
+  projects:
+    - title: "Transhumeral arm prosthesis with haptic feedback"
+      period: "2021 – 2022"
+      icon: "fa-robot"
+      image:
+      description: "A transhumeral arm prosthesis controlled via EEG, EMG and motion sensing, with non-invasive haptic feedback for real-time interaction."
+      tags: ["Arm prosthesis", "BCI", "EMG/EEG", "Haptic feedback", "3D printing"]
+      links:
+        - label: "Mechanical testing methods (review)"
+          url: "https://ieeexplore.ieee.org/document/8567479/"
+    - title: "Low-cost prosthetic tool for handlebar-driven vehicles"
+      period: ""
+      icon: "fa-bicycle"
+      image:
+      description: "A low-cost upper-limb prosthesis optimised for riding bicycles and motorcycles."
+      tags: ["Prosthetics", "Mobility", "Transportation"]
+      links:
+        - label: "BioRob 2024"
+          url: "https://ieeexplore.ieee.org/document/10719816"
+    - title: "LAT Bionics — low-cost custom hand prostheses"
+      period: "2017 – present"
+      icon: "fa-hand-holding-heart"
+      image:
+      description: "A social startup providing low-cost, custom hand prostheses in Peru using 3D scanning, CAD and 3D printing."
+      tags: ["Hand prostheses", "Digital fabrication", "Social impact"]
+      links:
+        - label: "TED talk"
+          url: "https://www.youtube.com/watch?v=Zhtl4Ava1fQ"
+          type: "video"
+    - title: "Myoelectric upper-limb prosthesis with force control"
+      period: "2016 – 2017"
+      icon: "fa-microchip"
+      image:
+      description: "A myoelectric prosthetic hand capable of fine force control and haptic feedback."
+      tags: ["Prosthetics", "Robotics", "Haptics", "EMG", "3D printing"]
+      links:
+        - label: "Powered 3D-printed prosthetic hand"
+          url: "https://ieeexplore.ieee.org/document/7942737"
+
+- theme: "Rehabilitation robotics"
+  projects:
+    - title: "Soft robotic device for muscle rehabilitation"
+      period: ""
+      icon: "fa-heart-pulse"
+      image:
+      description: "Design, modelling, simulation and experimental validation of a soft, cuff-like device for enhancing blood flow and aiding muscle rehabilitation."
+      tags: ["Soft robotics", "Rehabilitation", "Muscle stimulation"]
+      links:
+        - label: "Soft robotic device (EMBC 2021)"
+          url: "https://ieeexplore.ieee.org/document/9629855"
+        - label: "Mechanical characterisation (EMBC 2024)"
+          url: "https://ieeexplore.ieee.org/document/10782663"
+        - label: "Computational analysis (EMBC 2024)"
+          url: "https://ieeexplore.ieee.org/document/10782886"
+    - title: "Lower-limb exoskeleton for gait rehabilitation"
+      period: "2015 – 2016"
+      icon: "fa-person-walking"
+      image:
+      description: "A robotic exoskeleton for gait training and rehabilitation, with motion capture, torque control and gait-pattern simulation."
+      tags: ["Exoskeletons", "Gait therapy", "Robotics", "MATLAB"]
+      links:
+        - label: "Gait and stair-climbing therapies"
+          url: "https://link.springer.com/chapter/10.1007/978-3-030-00365-4_24"
