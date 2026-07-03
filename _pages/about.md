@@ -34,6 +34,8 @@ My projects have been featured in several media outlets from the UK, Peru, and G
 
 Feel free to explore my [Publications](../publications/) and [Projects](../projects/) or [contact me](mailto:r.mioz@pucp.edu.pe) for collaborations or inquiries about my work.
 
+{% include media-strip.html %}
+
 ## Latest News
 
 - **04/2026** Together with my PI, Prof. Aldo Faisal, we were awarded the **[AcrossEU Seed Funding](https://acrosseu.unicaen.fr/acrosseu-seed-funding/)** for a project on **neural interfacing for controlling a supernumerary robotic finger**. Looking forward to exploring new approaches in neurotech for human augmentation.

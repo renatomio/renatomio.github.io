@@ -1,0 +1,39 @@
+# Outlets for the "Media coverage" strip on the homepage.
+# The strip is sorted by `date` (newest first) automatically, so you can add
+# entries anywhere. Each needs a name, url and date (YYYY-MM-DD).
+- name: "Kurier"
+  date: 2026-01-15
+  url: "https://www.kurier.de/inhalt.an-bayreuther-uni-ki-rechnet-an-der-mensa-die-essen-aus.9a64171f-0ad6-481a-9eb8-6f016e88c68f.html"
+- name: "Cybathlon"
+  date: 2025-10-01
+  url: "https://www.linkedin.com/posts/cybathlon_assistivetechnology-disabilityinclusion-prosthetics-activity-7384114400086994945-hBN4"
+- name: "Süddeutsche Zeitung"
+  date: 2023-12-03
+  url: "https://www.sueddeutsche.de/bayern/wissenschaft-kulmbach-uni-erforscht-menschliches-verhalten-wohnungen-als-ki-labor-dpa.urn-newsml-dpa-com-20090101-231203-99-168170"
+- name: "Die Zeit"
+  date: 2023-12-03
+  url: "https://www.zeit.de/news/2023-12/03/wohnungen-als-ki-labor-forschung-zu-menschlichem-verhalten"
+- name: "SAT.1"
+  date: 2023-12-03
+  url: "https://www.sat1.de/serien/1730-sat1-bayern/videos/ki-projekt-in-kulmbach-erstes-live-in-lab-gestartet-v_1ajkphrp575f"
+- name: "El Peruano"
+  date: 2023-09-01
+  url: "https://www.elperuano.pe/noticia/223247-invento-peruano-es-premiado-en-corea"
+- name: "Reuters"
+  date: 2021-08-25
+  url: "https://www.reuters.com/lifestyle/hands-on-experience-pianists-learn-play-with-robot-thumb-2021-08-25/"
+- name: "New Scientist"
+  date: 2021-08-25
+  url: "https://www.newscientist.com/article/2286166-pianists-fitted-with-robotic-thumb-can-learn-to-play-with-11-digits/"
+- name: "Daily Mail"
+  date: 2021-08-25
+  url: "https://www.dailymail.co.uk/sciencetech/article-9879571/Pianists-fitted-robotic-THUMB-adjust-playing-hour.html"
+- name: "Imperial College London"
+  date: 2021-08-25
+  url: "https://www.imperial.ac.uk/news/232077/pianists-learn-play-with-robotic-third/"
+- name: "CBC"
+  date: 2021-08-25
+  url: "https://www.cbc.ca/player/play/video/1.6152450"
+- name: "Andina"
+  date: 2021-02-01
+  url: "https://andina.pe/agencia/noticia-investigadores-fabrican-protesis-mioelectrica-personalizada-mano-832760.aspx"

@@ -1,0 +1,11 @@
+{% assign media_items = site.data.media | sort: "date" | reverse %}
+{% if media_items and media_items.size > 0 %}
+<div class="media-strip">
+  <p class="media-strip__label">Media coverage</p>
+  <div class="media-strip__items">
+    {% for outlet in media_items %}
+      <a class="media-pill" href="{{ outlet.url }}">{{ outlet.name }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
