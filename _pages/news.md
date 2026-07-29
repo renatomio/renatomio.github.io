@@ -9,9 +9,9 @@ class: justify-text
 
 # News Archive
 
-- **06/2026** Participated in the **[Cleveland NeuroDesign Entrepreneurs Workshop](https://www.clevelandneurodesign.com/)** in Munich, learning the **Biodesign** methodology for translating unmet clinical needs into viable neurotechnology ventures. An excellent opportunity to learn from and collaborate with clinicians, engineers, entrepreneurs, and investors.
+- **06/2026** Participated in the **[Cleveland NeuroDesign Entrepreneurs Workshop](https://www.clevelandneurodesign.com/)** in Munich, and learned a powerful framework for translating neurotechnology into real-world impact, from identifying unmet needs to systematically evaluating solutions through the lenses of technical feasibility, IP, regulation, reimbursement, and business viability. It was an excellent opportunity to collaborate with clinicians, engineers, entrepreneurs, and investors. See my [LinkedIn post](https://lnkd.in/p/esMhSURz) about it.
 
-- **06/2026** Participated in the 4th Bio-inspired Deep Learning Workshop in Guntersblum. My team and I focused on bio-inspired neural coding, exploring oscillatory neural dynamics for adaptive phase encoding and evaluating the approach on a speech classification task using spiking neural networks. The workshop provided valuable interdisciplinary exchange across neuroscience, AI, physics, and engineering.
+- **06/2026** Participated in the [4th Bio-inspired Deep Learning Workshop](https://mfeggl.github.io/workshop/2026/01/01/bio-inspired-deep-learning-workshop-2026.html) in Guntersblum. My team and I focused on bio-inspired neural coding, exploring oscillatory neural dynamics for adaptive phase encoding and evaluating the approach on a speech classification task using spiking neural networks. The workshop provided valuable interdisciplinary exchange across neuroscience, AI, physics, and engineering. See my [LinkedIn post](https://lnkd.in/p/e2JmT47j) about it.
 
 - **04/2026** Together with my PI, Prof. Aldo Faisal, we were awarded the **[AcrossEU Seed Funding](https://acrosseu.unicaen.fr/acrosseu-seed-funding/)** for a project on **neural interfacing for controlling a supernumerary robotic finger**. Looking forward to exploring new approaches in neurotech for human augmentation.
 
